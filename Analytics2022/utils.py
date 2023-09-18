@@ -4,10 +4,16 @@ def encode(df, encoding_dictionary):
         df = df.copy()
         for x in df:
             uns = df[x].dropna().unique()
+            
             uns2 = '@'.join(sorted([str(x) for x in uns]))
-            if not uns2 in encoding_dictionary:
+            if uns2 in encoding_dictionary:
+                tmp_encode = encoding_dictionary[uns2]
+            else:
                 continue
-            df[x] = df[x].apply(encode, args = [encoding_dictionary[uns2]])
+                if len(uns) > 10:
+                    continue
+                tmp_encode = {un : i for i, un in enumerate(uns) if un} 
+            df[x] = df[x].apply(encode, args = [tmp_encode])
         return df
     if df in encoding_dictionary:
         df = encoding_dictionary[df]
