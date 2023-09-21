@@ -146,6 +146,9 @@
                 </ol>
         </li>
         <li><a href=#Effects>Estimating the effects of impact</a></li>
+            <ol type="i">
+            <li><a href="#Findings">Key Findings</a></li>
+                </ol>
         <li><a href="#Model">Predictive Modelling Of Hope Scale Score</a>
             <ol type="i">
             <li><a href="#Method">Modeling Method And Design</a></li>
@@ -273,13 +276,15 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
      </div>
     <h2 id="Effects">Estimating the effects of impact</h2>
     <p>
-        &emsp;In the quest to comprehensively understand the intricacies of veterans' well-being, this section embarks on an exploration of the effects of various impactful factors. We endeavor to unveil the relationships between certain actions that we as a community can take and their potential repercussions on the surveyed veteran population. The data-driven insights garnered from this analysis will shed light on the nuanced dynamics within the veteran community, offering a glimpse into how factors such as community involvement, support networks, and practical considerations may influence hope levels. To visually illuminate the quantitative outcomes of this inquiry, two figures, "Effects_of_impact" and "Effects_of_impact_difference," have been provided. Together, this section represents a vital piece of the survey results puzzle, providing valuable information that can guide targeted interventions and strategies aimed at bolstering the well-being and hope of veterans, ultimately contributing to our mission of preventing veteran suicide and enhancing the quality of life for those who have served our nation</p>
+        &emsp;In the quest to comprehensively understand the intricacies of veterans' well-being, this section embarks on an exploration of the effects of various impactful factors. We endeavor to unveil the relationships between certain actions that we as a community can take and their potential repercussions on the surveyed veteran population. The data-driven insights garnered from this analysis will shed light on the nuanced dynamics within the veteran community, offering a glimpse into how factors such as community involvement, support networks, and practical considerations may influence hope levels. The figures, "Determining the effects of impact" and "Net effects of impact", visually illuminate the quantitative outcomes of the implementation of remedies to these impact questions. Together, this section represents a vital piece of the survey results puzzle, providing valuable information that can guide targeted interventions and strategies aimed at bolstering the well-being and hope of veterans, ultimately contributing to our mission of preventing veteran suicide and enhancing the quality of life for those who have served our nation</p>
+    
     <div>
         <h3 class="center"> Impact Questions </h3>
         <div class="mission">
             @|@plots_2022/HTML/Statements_Table.html@|@
         </div>
     </div>
+    <h3 id="Findings"> Key Findings </h3>
     <div class="float-container">
         <div class="float-child4">
             <div class="figure">
@@ -292,19 +297,28 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
             </div>
         </div>
     </div>
-    <ol> <li>Veteran Serving Organizations' Concern for Well-being: When veterans perceive that veteran-serving organizations deeply care about their well-being, the average Hope Scale Score experiences a notable increase of approximately 4.0% (±0.44%). This intervention positively impacts 18% of service men and women, resulting in an average raw Hope Scale Score of 1.38 (±0.15) and an overall raw score of 159 (±17).</li>
+    <p> Four different metrics can be used to quantitativly analyze the effects of intervention on each of the different impact types.
+        </p>
+    <ol><li>Hope Scale Score raw improvement. (Predicted mean score after intevention minus Observed mean Score)</li> 
+        <li>Hope Scale Score percentage increase. - (one hundred times Observed mean Score divided by Raw Increase) </li>
+        <li>Hope Scale Score raw increase. - (Sum of Predicted score minus Observed score) </li> 
+        <li>Percentage of service members positively impacted</li>
+        
+    </ol>
+    <h4>Quantitative effects</h4>
+    <ol> <li>Veteran Serving Organizations' Concern for Well-being: When veterans perceive that veteran-serving organizations deeply care about their well-being, the average Hope Scale Score experiences a notable increase of approximately 4.0% (±0.44%). This intervention positively impacts 18% of service men and women, resulting in an average raw Hope Scale Score improvement of 1.38 (±0.15) and an overall raw score of 159 (±17).</li>
 
-<li>Community Involvement with Veterans: The extent of community involvement with veterans contributes to an average Hope Scale Score increase of approximately 2.51% (±0.26%). This positive impact is observed in 21% of service men and women, resulting in an average raw Hope Scale Score of 0.88 (±0.09) and an overall raw score of 304 (±31).</li>
+<li>Community Involvement with Veterans: The extent of community involvement with veterans contributes to an average Hope Scale Score increase of approximately 2.51% (±0.26%). This positive impact is observed in 21% of service men and women, resulting in an average raw Hope Scale Score improvement of 0.88 (±0.09) and an overall raw score of 304 (±31).</li>
 
 <li>Dependable Support: Veterans who have dependable support experience a significant increase in their average Hope Scale Score, amounting to approximately 6.95% (±0.96%). This intervention positively affects 15% of service men and women, leading to an average raw Hope Scale Score of 2.43 (±0.34) and an overall raw score of 238 (±33).</li>
 
-<li>Ownership of a Car: The ownership of a car is associated with a substantial average Hope Scale Score increase of approximately 7.02% (±0.72%). This impact is observed in a substantial 35% of service men and women, resulting in an average raw Hope Scale Score of 2.67 (±0.28) and an overall raw score of 470 (±48).</li>
+<li>Ownership of a Car: The ownership of a car is associated with a substantial average Hope Scale Score increase of approximately 7.02% (±0.72%). This impact is observed in a substantial 35% of service men and women, resulting in an average raw Hope Scale Score improvement of 2.67 (±0.28) and an overall raw score of 470 (±48).</li>
     </ol>
 
 <p>&emsp;These findings underscore the significance of community involvement, dependable support networks, and practical considerations like car ownership in positively influencing the hope levels of veterans. The quantified impacts of these factors provide valuable guidance for targeted interventions and strategies aimed at enhancing the well-being and hope of veterans, aligning with the mission to prevent veteran suicide and improve the quality of life for those who have honorably served our nation.
         </p>
     <h2 id="Model">Predictive Modelling Of Hope Scale Score</h2>
-     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regressor, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regressor, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. </p>
+     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regressor, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regressor, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the model had a mean relative error of predicting the Hope Scale Score of &sim; 4.4 % (&alpha; &lt; 0.001). </p>
     <h3 id="Method">Modeling Method And Design</h3>
     <p>&emsp;The modeling process employed advanced statistical methods, including regression analysis and machine learning algorithms, to unveil the intricate connections between Hope Scale Scores and the impact questions. The model was thoughtfully designed to account for a myriad of factors that might impact hope levels, thereby facilitating a comprehensive assessment of the effects of these questions on veterans' overall well-being. Utilizing the differences between predicted means and observed means, along with Spearman rank correlation for continuous predictors and ANOVA for categorical predictors, the model was fine-tuned to capture the nuanced relationships.</p>
     <p>The analysis revealed a set of pivotal predictive features that significantly influenced Hope Scale Scores. Among these influential factors were:</p>
