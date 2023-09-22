@@ -13,7 +13,7 @@
             color: #090909;
         }
         p {
-            line-height: 1.1;
+            line-height: 1.2;
         }
 
 	.center {
@@ -100,6 +100,9 @@
             background-color:#FFFFFF;
                 border-radius : 0px 0px 25px 25px;
         }
+        .margined {
+            padding: 10px;
+        }
         .title{
             /*background-image:url('https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/81227198_2789231131137576_8524645136276127744_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Cf3p4jO5byoAX_49AXj&_nc_ht=scontent-atl3-2.xx&oh=00_AfB9uO0jZe8PhEL81lDmtmcV8-eceACpbt8A4JHF7c5dkQ&oe=6533EC59');*/
             /*background-image:url('https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/19225558_1492407657486603_2707341248826862684_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ypoMaCRM7QEAX8SfOgk&_nc_ht=scontent-atl3-2.xx&oh=00_AfDjlujFj5y2TvFxC_sf_4p6dRb0t7ZgcL3b23yvbuWDHQ&oe=6533C868');*/
@@ -152,6 +155,7 @@
         <li><a href="#Model">Predictive Modelling Of Hope Scale Score</a>
             <ol type="i">
             <li><a href="#Method">Modeling Method And Design</a></li>
+                <li><a href="#Factors">Latent Factors</a></li>
                 </ol></li>
         <li><a href="#Conclusion">Conclusion</a></li>
         <li><a href="#Appendix">Appendix</a></li>
@@ -162,7 +166,7 @@
     <div class="spacefill"></div>
     <h2 id='Introduction'>Introduction</h2>
     <div>
-    <div class="mission OGR_boarder">
+    <div class="mission OGR_boarder margined">
      <h3 class="center" id="Mission Statement">Mission Statement</h3>
     
     <p> <b>Our mission is to partner with communities to prevent veteran suicide. Our programs accomplish this by starting at the community level and understanding the unique situations of veterans and their families. We connect local veteran-serving organizations with the appropriate resources, services, and partners that they need to support veterans, their families, and caregivers at every stage of veterans’ lives. Our ultimate goal is to improve the quality of life for veterans and to end veteran suicide by empowering local communities to serve them proactively and holistically before a crisis occurs.
@@ -305,19 +309,19 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
         
     </ol>
     <h4>Quantitative effects</h4>
-    <ol> <li>Veteran Serving Organizations' Concern for Well-being: When veterans perceive that veteran-serving organizations deeply care about their well-being, the average Hope Scale Score experiences a notable increase of approximately 4.0% (±0.44%). This intervention positively impacts 18% of service men and women, resulting in an average raw Hope Scale Score improvement of 1.38 (±0.15) and an overall raw score of 159 (±17).</li>
+    <ol> <li>Veteran Serving Organizations' Concern for Well-being: When veterans perceive that veteran-serving organizations deeply care about their well-being, the average Hope Scale Score experiences a notable increase of approximately 4.1% (±0.4%). This intervention positively impacts 17% of service men and women, resulting in an average raw Hope Scale Score improvement of 1.41 (±0.14) and an overall raw score of 108 (±10).</li>
 
-<li>Community Involvement with Veterans: The extent of community involvement with veterans contributes to an average Hope Scale Score increase of approximately 2.51% (±0.26%). This positive impact is observed in 21% of service men and women, resulting in an average raw Hope Scale Score improvement of 0.88 (±0.09) and an overall raw score of 304 (±31).</li>
+<li>Community Involvement with Veterans: The extent of community involvement with veterans contributes to an average Hope Scale Score increase of approximately 12.44% (±1.19%). This positive impact is observed in 19% of service men and women, resulting in an average raw Hope Scale Score improvement of 3.86 (±0.59) and an overall raw score of 288 (±44).</li>
 
-<li>Dependable Support: Veterans who have dependable support experience a significant increase in their average Hope Scale Score, amounting to approximately 6.95% (±0.96%). This intervention positively affects 15% of service men and women, leading to an average raw Hope Scale Score of 2.43 (±0.34) and an overall raw score of 238 (±33).</li>
+<li>Dependable Support: Veterans who have dependable support experience a significant increase in their average Hope Scale Score, amounting to approximately 3.53% (±0.38%). This intervention positively affects 16% of service men and women, leading to an average raw Hope Scale Score of 1.24 (±0.13) and an overall raw score of 176 (±19).</li>
 
-<li>Ownership of a Car: The ownership of a car is associated with a substantial average Hope Scale Score increase of approximately 7.02% (±0.72%). This impact is observed in a substantial 35% of service men and women, resulting in an average raw Hope Scale Score improvement of 2.67 (±0.28) and an overall raw score of 470 (±48).</li>
+<li>Ownership of a Car: The ownership of a car is associated with a substantial average Hope Scale Score increase of approximately 6.21% (±0.72%). This impact is observed in a substantial 35% of service men and women, resulting in an average raw Hope Scale Score improvement of 2.36 (±0.27) and an overall raw score of 501 (±58).</li>
     </ol>
 
 <p>&emsp;These findings underscore the significance of community involvement, dependable support networks, and practical considerations like car ownership in positively influencing the hope levels of veterans. The quantified impacts of these factors provide valuable guidance for targeted interventions and strategies aimed at enhancing the well-being and hope of veterans, aligning with the mission to prevent veteran suicide and improve the quality of life for those who have honorably served our nation.
         </p>
     <h2 id="Model">Predictive Modelling Of Hope Scale Score</h2>
-     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regression, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regression, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the Random Forest Regression model had a mean relative error of predicting the Hope Scale Score of &sim;4.4 % (&alpha; &lt; 0.001) and a Pearson Correlation Coefficient &sim;0.80. This compares to a a mean relative error of &sim;5.0 % and a Pearson Correlation Coefficient of  &sim;0.73 for the Linear Regression Model</p>
+     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regression, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regression, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the Random Forest Regression model had a mean absolute percentage error of predicting the Hope Scale Score of &sim;15.9 % (&alpha; &lt; 0.001) and a Pearson Correlation Coefficient &sim;0.80. This is an improvement compared to a mean absolute percentage error of &sim;16.6 % and a Pearson Correlation Coefficient of &sim;0.79 for the Linear Regression Model</p>
     <h3 id="Method">Modeling Method And Design</h3>
     <p>&emsp;The modeling process employed advanced statistical methods, including regression analysis and machine learning algorithms, to unveil the intricate connections between Hope Scale Scores and the impact questions. The model was thoughtfully designed to account for a myriad of factors that might impact hope levels, thereby facilitating a comprehensive assessment of the effects of these questions on veterans' overall well-being. Utilizing the differences between predicted means and observed means, along with Spearman rank correlation for continuous predictors and ANOVA for categorical predictors, the model was fine-tuned to capture the nuanced relationships.</p>
     <p>The analysis revealed a set of pivotal predictive features that significantly influenced Hope Scale Scores. Among these influential factors were:</p>
@@ -351,7 +355,8 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
     <li>Perceived strength of the support network for active military/veterans in the community.</li>
 </ul>
     <p>These findings underscore the intricate web of factors that contribute to veterans' hope levels and serve as a vital resource for informing targeted interventions and strategies aimed at enhancing hope and overall well-being among veterans. By understanding the impact of these questions, we can advance the mission of preventing veteran suicide and elevate the quality of life for those who have valiantly served our nation.</p>
-    
+<div class="mission OGB_boarder margined" id="Factors">
+    <h3 class="center">Latent Factors</h3>
 <h4>Factor: Roadblocks to Hope</h4>
 <p>This factor reflects a lack of hope associated with difficulties in seeking assistance, education benefits, and housing, but a glimmer of hope through car ownership and reliable transportation.</p>
 
@@ -366,12 +371,12 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
 
 <h4>Factor: Community Bonds</h4>
 <p>This factor explores the role of social support, community engagement, and well-being, encompassing factors like dependable support, household size, and coping strategies.</p>
-
+</div>
 <p>The creation of these factors enhances our ability to analyze and interpret the data effectively. By condensing multiple related features into a smaller set of factors, we gain a clearer understanding of the underlying structures and relationships within the dataset. These factors can serve as valuable variables in subsequent analyses, simplifying the complexity of the dataset while preserving its informative content.</p>
 
 It is important to note that factor analysis is an exploratory technique, and the factor names are assigned based on the interpretation of the features comprising each factor. The names provide a high-level summary of the shared characteristics within each factor, facilitating a more intuitive understanding of the data's underlying structure.
     <h2 id="Conclusion">Conclusion</h2>
-    <p>This report represents a significant step forward, offering a comprehensive analysis of survey results that contributes to a better understanding of the complex issue of veteran suicide. Specifically, our analysis revealed that factors like veterans' perception of the care offered by veteran-serving organizations, the extent of community involvement with veterans, dependable support networks, and car ownership all play significant roles in positively influencing hope levels. These quantified impacts provide valuable guidance for targeted interventions aimed at enhancing the well-being and hope of veterans, aligning with our mission to prevent veteran suicide and elevate the quality of life for those who have honorably served our nation. Four distinct factors were identified, each reflecting shared variance among original features. These factors encompassed service and financial profiles, deployment and resource-seeking behaviors, health and community engagement, and transportation and adaptability. They provide a more interpretable and concise representation of the data, facilitating a deeper understanding of veterans' experiences. This comprehensive report combines survey insights, predictive modeling, and factor analysis to offer a multifaceted view of the challenges and opportunities within the veteran community. Armed with these findings, we are better equipped to implement targeted interventions and strategies that enhance hope, well-being, and the overall quality of life for veterans, ensuring that their sacrifices are met with the support and care they deserve. Together, we can make a lasting impact on the lives of those who have served our nation.</p>
+    <p>This report represents a significant step forward, offering a comprehensive analysis of survey results that contributes to a better understanding of the complex issue of veteran suicide. Specifically, our analysis revealed that factors like veterans' perception of the care offered by veteran-serving organizations, the extent of community involvement with veterans, dependable support networks, and car ownership all play significant roles in positively influencing hope levels. These quantified impacts provide valuable guidance for targeted interventions aimed at enhancing the well-being and hope of veterans, aligning with our mission to prevent veteran suicide and elevate the quality of life for those who have honorably served our nation. Five distinct factors were identified, each reflecting shared variance among original features. These factors encompassed service and financial profiles, deployment and resource-seeking behaviors, health and community engagement, and transportation and adaptability. They provide a more interpretable and concise representation of the data, facilitating a deeper understanding of veterans' experiences. This comprehensive report combines survey insights, predictive modeling, and factor analysis to offer a multifaceted view of the challenges and opportunities within the veteran community. Armed with these findings, we are better equipped to implement targeted interventions and strategies that enhance hope, well-being, and the overall quality of life for veterans, ensuring that their sacrifices are met with the support and care they deserve. Together, we can make a lasting impact on the lives of those who have served our nation.</p>
     
     <h2 id="Appendix">Appendix</h2>
         <h3> Sources </h3>

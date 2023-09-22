@@ -1,437 +1,629 @@
 Hope Scale Score,Predicted Hope Scale Score,id,With Intervention,Impact Type
-31.0,28.64864864864865,0,After Intervention,Veteran serving organizations care deeply about my well being?
-20.0,15.945945945945946,1,After Intervention,Veteran serving organizations care deeply about my well being?
-50.0,35.16216216216216,2,After Intervention,Veteran serving organizations care deeply about my well being?
-49.0,30.62162162162162,3,After Intervention,Veteran serving organizations care deeply about my well being?
-35.0,34.486486486486484,4,After Intervention,Veteran serving organizations care deeply about my well being?
-46.0,31.243243243243242,5,After Intervention,Veteran serving organizations care deeply about my well being?
-20.0,23.972972972972972,6,After Intervention,Veteran serving organizations care deeply about my well being?
-43.0,37.945945945945944,7,After Intervention,Veteran serving organizations care deeply about my well being?
-56.0,49.513513513513516,8,After Intervention,Veteran serving organizations care deeply about my well being?
-40.0,41.83783783783784,9,After Intervention,Veteran serving organizations care deeply about my well being?
-27.0,23.216216216216218,10,After Intervention,Veteran serving organizations care deeply about my well being?
-26.0,32.486486486486484,11,After Intervention,Veteran serving organizations care deeply about my well being?
-26.0,22.324324324324323,12,After Intervention,Veteran serving organizations care deeply about my well being?
-45.0,30.972972972972972,13,After Intervention,Veteran serving organizations care deeply about my well being?
-27.0,21.64864864864865,14,After Intervention,Veteran serving organizations care deeply about my well being?
-35.0,29.216216216216218,15,After Intervention,Veteran serving organizations care deeply about my well being?
-57.0,41.37837837837838,16,After Intervention,Veteran serving organizations care deeply about my well being?
-45.0,33.891891891891895,17,After Intervention,Veteran serving organizations care deeply about my well being?
-17.0,21.864864864864863,18,After Intervention,Veteran serving organizations care deeply about my well being?
-45.0,34.351351351351354,19,After Intervention,Veteran serving organizations care deeply about my well being?
-62.0,52.91891891891892,20,After Intervention,Veteran serving organizations care deeply about my well being?
-14.0,12.054054054054054,21,After Intervention,Veteran serving organizations care deeply about my well being?
-25.0,24.37837837837838,22,After Intervention,Veteran serving organizations care deeply about my well being?
-37.0,33.108108108108105,23,After Intervention,Veteran serving organizations care deeply about my well being?
-25.0,25.0,24,After Intervention,Veteran serving organizations care deeply about my well being?
-34.0,34.67567567567568,25,After Intervention,Veteran serving organizations care deeply about my well being?
-18.0,21.81081081081081,26,After Intervention,Veteran serving organizations care deeply about my well being?
-47.0,34.5945945945946,27,After Intervention,Veteran serving organizations care deeply about my well being?
-47.0,27.45945945945946,28,After Intervention,Veteran serving organizations care deeply about my well being?
-20.0,19.56756756756757,29,After Intervention,Veteran serving organizations care deeply about my well being?
-59.0,53.78378378378378,30,After Intervention,Veteran serving organizations care deeply about my well being?
-37.0,26.35135135135135,31,After Intervention,Veteran serving organizations care deeply about my well being?
-20.0,20.62162162162162,32,After Intervention,Veteran serving organizations care deeply about my well being?
-19.0,19.64864864864865,33,After Intervention,Veteran serving organizations care deeply about my well being?
-35.0,34.513513513513516,34,After Intervention,Veteran serving organizations care deeply about my well being?
-43.0,30.405405405405407,35,After Intervention,Veteran serving organizations care deeply about my well being?
-20.0,21.89189189189189,36,After Intervention,Veteran serving organizations care deeply about my well being?
-45.0,38.5945945945946,37,After Intervention,Veteran serving organizations care deeply about my well being?
-27.0,23.216216216216218,38,After Intervention,Veteran serving organizations care deeply about my well being?
-19.0,22.486486486486488,39,After Intervention,Veteran serving organizations care deeply about my well being?
-38.0,25.54054054054054,40,After Intervention,Veteran serving organizations care deeply about my well being?
-58.0,40.83783783783784,41,After Intervention,Veteran serving organizations care deeply about my well being?
-30.0,24.64864864864865,42,After Intervention,Veteran serving organizations care deeply about my well being?
-24.0,22.56756756756757,43,After Intervention,Veteran serving organizations care deeply about my well being?
-40.0,25.513513513513512,44,After Intervention,Veteran serving organizations care deeply about my well being?
-34.0,30.135135135135137,45,After Intervention,Veteran serving organizations care deeply about my well being?
-32.0,37.54054054054054,46,After Intervention,Veteran serving organizations care deeply about my well being?
-33.0,25.37837837837838,47,After Intervention,Veteran serving organizations care deeply about my well being?
-64.0,55.0,48,After Intervention,Veteran serving organizations care deeply about my well being?
-35.0,31.756756756756758,49,After Intervention,Veteran serving organizations care deeply about my well being?
-19.0,17.405405405405407,50,After Intervention,Veteran serving organizations care deeply about my well being?
-10.0,11.621621621621621,51,After Intervention,Veteran serving organizations care deeply about my well being?
-27.0,23.216216216216218,52,After Intervention,Veteran serving organizations care deeply about my well being?
-46.0,30.486486486486488,53,After Intervention,Veteran serving organizations care deeply about my well being?
+31.0,30.022281639928696,0,After Intervention,Veteran serving organizations care deeply about my well being?
+20.0,22.7208053384524,1,After Intervention,Veteran serving organizations care deeply about my well being?
+15.0,27.540181426016098,2,After Intervention,Veteran serving organizations care deeply about my well being?
+13.0,26.306186564475336,3,After Intervention,Veteran serving organizations care deeply about my well being?
+50.0,39.082507812715825,4,After Intervention,Veteran serving organizations care deeply about my well being?
+49.0,49.37770287260963,5,After Intervention,Veteran serving organizations care deeply about my well being?
+35.0,40.20539021133316,6,After Intervention,Veteran serving organizations care deeply about my well being?
+46.0,35.887734211197056,7,After Intervention,Veteran serving organizations care deeply about my well being?
+20.0,26.784541957465834,8,After Intervention,Veteran serving organizations care deeply about my well being?
+43.0,45.041455265913065,9,After Intervention,Veteran serving organizations care deeply about my well being?
+56.0,51.46610924155075,10,After Intervention,Veteran serving organizations care deeply about my well being?
+14.0,21.46161114583575,11,After Intervention,Veteran serving organizations care deeply about my well being?
+40.0,53.44907797147455,12,After Intervention,Veteran serving organizations care deeply about my well being?
+54.0,44.57153396628756,13,After Intervention,Veteran serving organizations care deeply about my well being?
+39.0,37.876050012079425,14,After Intervention,Veteran serving organizations care deeply about my well being?
+27.0,30.260992994102303,15,After Intervention,Veteran serving organizations care deeply about my well being?
+26.0,41.21369720813631,16,After Intervention,Veteran serving organizations care deeply about my well being?
+18.0,25.70030584388873,17,After Intervention,Veteran serving organizations care deeply about my well being?
+62.0,57.28024562013703,18,After Intervention,Veteran serving organizations care deeply about my well being?
+26.0,29.6066338451419,19,After Intervention,Veteran serving organizations care deeply about my well being?
+21.0,41.516948291621034,20,After Intervention,Veteran serving organizations care deeply about my well being?
+45.0,39.44565778943118,21,After Intervention,Veteran serving organizations care deeply about my well being?
+27.0,30.794992997198875,22,After Intervention,Veteran serving organizations care deeply about my well being?
+35.0,39.100415583573046,23,After Intervention,Veteran serving organizations care deeply about my well being?
+57.0,52.900842557126,24,After Intervention,Veteran serving organizations care deeply about my well being?
+45.0,36.43388097355921,25,After Intervention,Veteran serving organizations care deeply about my well being?
+17.0,27.849108526648628,26,After Intervention,Veteran serving organizations care deeply about my well being?
+45.0,41.52051237964729,27,After Intervention,Veteran serving organizations care deeply about my well being?
+62.0,54.87422602649874,28,After Intervention,Veteran serving organizations care deeply about my well being?
+14.0,23.210494897259604,29,After Intervention,Veteran serving organizations care deeply about my well being?
+25.0,31.6930867655285,30,After Intervention,Veteran serving organizations care deeply about my well being?
+37.0,39.44403508538449,31,After Intervention,Veteran serving organizations care deeply about my well being?
+28.0,40.65692422275175,32,After Intervention,Veteran serving organizations care deeply about my well being?
+22.0,27.284563638975403,33,After Intervention,Veteran serving organizations care deeply about my well being?
+40.0,30.537269756387403,34,After Intervention,Veteran serving organizations care deeply about my well being?
+25.0,32.93642307822391,35,After Intervention,Veteran serving organizations care deeply about my well being?
+64.0,57.50857755843279,36,After Intervention,Veteran serving organizations care deeply about my well being?
+34.0,38.455266146220815,37,After Intervention,Veteran serving organizations care deeply about my well being?
+13.0,23.315528727560814,38,After Intervention,Veteran serving organizations care deeply about my well being?
+18.0,24.525909544258475,39,After Intervention,Veteran serving organizations care deeply about my well being?
+47.0,42.58400234218136,40,After Intervention,Veteran serving organizations care deeply about my well being?
+47.0,34.50973913789657,41,After Intervention,Veteran serving organizations care deeply about my well being?
+41.0,27.94778669043375,42,After Intervention,Veteran serving organizations care deeply about my well being?
+20.0,24.872589323926224,43,After Intervention,Veteran serving organizations care deeply about my well being?
+15.0,25.628602769779246,44,After Intervention,Veteran serving organizations care deeply about my well being?
+47.0,37.43688991305723,45,After Intervention,Veteran serving organizations care deeply about my well being?
+58.0,56.005044081211295,46,After Intervention,Veteran serving organizations care deeply about my well being?
+59.0,56.74366539842318,47,After Intervention,Veteran serving organizations care deeply about my well being?
+37.0,30.92257470771403,48,After Intervention,Veteran serving organizations care deeply about my well being?
+20.0,25.387256044608993,49,After Intervention,Veteran serving organizations care deeply about my well being?
+19.0,27.460730888593428,50,After Intervention,Veteran serving organizations care deeply about my well being?
+35.0,35.99669490410142,51,After Intervention,Veteran serving organizations care deeply about my well being?
+43.0,37.11927757187942,52,After Intervention,Veteran serving organizations care deeply about my well being?
+57.0,57.656978064669886,53,After Intervention,Veteran serving organizations care deeply about my well being?
+20.0,22.282966832196152,54,After Intervention,Veteran serving organizations care deeply about my well being?
+45.0,43.704207312523735,55,After Intervention,Veteran serving organizations care deeply about my well being?
+34.0,29.765534821684557,56,After Intervention,Veteran serving organizations care deeply about my well being?
+19.0,28.93290380695391,57,After Intervention,Veteran serving organizations care deeply about my well being?
+25.0,35.50893009398238,58,After Intervention,Veteran serving organizations care deeply about my well being?
+45.0,48.23960840649737,59,After Intervention,Veteran serving organizations care deeply about my well being?
+27.0,30.260992994102303,60,After Intervention,Veteran serving organizations care deeply about my well being?
+34.0,33.005050505050505,61,After Intervention,Veteran serving organizations care deeply about my well being?
+43.0,54.17139378403221,62,After Intervention,Veteran serving organizations care deeply about my well being?
+38.0,38.31703438864503,63,After Intervention,Veteran serving organizations care deeply about my well being?
+58.0,51.382987368316265,64,After Intervention,Veteran serving organizations care deeply about my well being?
+60.0,39.51979034037858,65,After Intervention,Veteran serving organizations care deeply about my well being?
+30.0,34.665778513401456,66,After Intervention,Veteran serving organizations care deeply about my well being?
+21.0,24.946308242163862,67,After Intervention,Veteran serving organizations care deeply about my well being?
+24.0,31.520012312282205,68,After Intervention,Veteran serving organizations care deeply about my well being?
+40.0,33.780713386488316,69,After Intervention,Veteran serving organizations care deeply about my well being?
+47.0,37.07291396971495,70,After Intervention,Veteran serving organizations care deeply about my well being?
+46.0,38.37669339732307,71,After Intervention,Veteran serving organizations care deeply about my well being?
+34.0,36.004294804606296,72,After Intervention,Veteran serving organizations care deeply about my well being?
+40.0,30.027444863863547,73,After Intervention,Veteran serving organizations care deeply about my well being?
+32.0,43.176047366040706,74,After Intervention,Veteran serving organizations care deeply about my well being?
+33.0,32.93076523771713,75,After Intervention,Veteran serving organizations care deeply about my well being?
+64.0,55.05941007508501,76,After Intervention,Veteran serving organizations care deeply about my well being?
+35.0,36.55793741520408,77,After Intervention,Veteran serving organizations care deeply about my well being?
+43.0,43.61203109240756,78,After Intervention,Veteran serving organizations care deeply about my well being?
+28.0,39.838469849376295,79,After Intervention,Veteran serving organizations care deeply about my well being?
+22.0,31.053255251213024,80,After Intervention,Veteran serving organizations care deeply about my well being?
+12.0,28.67963258387134,81,After Intervention,Veteran serving organizations care deeply about my well being?
+19.0,25.216269544478102,82,After Intervention,Veteran serving organizations care deeply about my well being?
+10.0,20.819193551546494,83,After Intervention,Veteran serving organizations care deeply about my well being?
+27.0,30.260992994102303,84,After Intervention,Veteran serving organizations care deeply about my well being?
+46.0,35.940638609756256,85,After Intervention,Veteran serving organizations care deeply about my well being?
+63.0,41.77994652406417,86,After Intervention,Veteran serving organizations care deeply about my well being?
+30.0,28.766895275972107,87,After Intervention,Veteran serving organizations care deeply about my well being?
 31.0,31.0,0,Observed,Veteran serving organizations care deeply about my well being?
 20.0,20.0,1,Observed,Veteran serving organizations care deeply about my well being?
-50.0,50.0,2,Observed,Veteran serving organizations care deeply about my well being?
-49.0,49.0,3,Observed,Veteran serving organizations care deeply about my well being?
-35.0,35.0,4,Observed,Veteran serving organizations care deeply about my well being?
-46.0,46.0,5,Observed,Veteran serving organizations care deeply about my well being?
-20.0,20.0,6,Observed,Veteran serving organizations care deeply about my well being?
-43.0,43.0,7,Observed,Veteran serving organizations care deeply about my well being?
-56.0,56.0,8,Observed,Veteran serving organizations care deeply about my well being?
-40.0,40.0,9,Observed,Veteran serving organizations care deeply about my well being?
-27.0,27.0,10,Observed,Veteran serving organizations care deeply about my well being?
-26.0,26.0,11,Observed,Veteran serving organizations care deeply about my well being?
-26.0,26.0,12,Observed,Veteran serving organizations care deeply about my well being?
-45.0,45.0,13,Observed,Veteran serving organizations care deeply about my well being?
-27.0,27.0,14,Observed,Veteran serving organizations care deeply about my well being?
-35.0,35.0,15,Observed,Veteran serving organizations care deeply about my well being?
-57.0,57.0,16,Observed,Veteran serving organizations care deeply about my well being?
-45.0,45.0,17,Observed,Veteran serving organizations care deeply about my well being?
-17.0,17.0,18,Observed,Veteran serving organizations care deeply about my well being?
-45.0,45.0,19,Observed,Veteran serving organizations care deeply about my well being?
-62.0,62.0,20,Observed,Veteran serving organizations care deeply about my well being?
-14.0,14.0,21,Observed,Veteran serving organizations care deeply about my well being?
-25.0,25.0,22,Observed,Veteran serving organizations care deeply about my well being?
-37.0,37.0,23,Observed,Veteran serving organizations care deeply about my well being?
-25.0,25.0,24,Observed,Veteran serving organizations care deeply about my well being?
-34.0,34.0,25,Observed,Veteran serving organizations care deeply about my well being?
-18.0,18.0,26,Observed,Veteran serving organizations care deeply about my well being?
-47.0,47.0,27,Observed,Veteran serving organizations care deeply about my well being?
-47.0,47.0,28,Observed,Veteran serving organizations care deeply about my well being?
-20.0,20.0,29,Observed,Veteran serving organizations care deeply about my well being?
-59.0,59.0,30,Observed,Veteran serving organizations care deeply about my well being?
+15.0,15.0,2,Observed,Veteran serving organizations care deeply about my well being?
+13.0,13.0,3,Observed,Veteran serving organizations care deeply about my well being?
+50.0,50.0,4,Observed,Veteran serving organizations care deeply about my well being?
+49.0,49.0,5,Observed,Veteran serving organizations care deeply about my well being?
+35.0,35.0,6,Observed,Veteran serving organizations care deeply about my well being?
+46.0,46.0,7,Observed,Veteran serving organizations care deeply about my well being?
+20.0,20.0,8,Observed,Veteran serving organizations care deeply about my well being?
+43.0,43.0,9,Observed,Veteran serving organizations care deeply about my well being?
+56.0,56.0,10,Observed,Veteran serving organizations care deeply about my well being?
+14.0,14.0,11,Observed,Veteran serving organizations care deeply about my well being?
+40.0,40.0,12,Observed,Veteran serving organizations care deeply about my well being?
+54.0,54.0,13,Observed,Veteran serving organizations care deeply about my well being?
+39.0,39.0,14,Observed,Veteran serving organizations care deeply about my well being?
+27.0,27.0,15,Observed,Veteran serving organizations care deeply about my well being?
+26.0,26.0,16,Observed,Veteran serving organizations care deeply about my well being?
+18.0,18.0,17,Observed,Veteran serving organizations care deeply about my well being?
+62.0,62.0,18,Observed,Veteran serving organizations care deeply about my well being?
+26.0,26.0,19,Observed,Veteran serving organizations care deeply about my well being?
+21.0,21.0,20,Observed,Veteran serving organizations care deeply about my well being?
+45.0,45.0,21,Observed,Veteran serving organizations care deeply about my well being?
+27.0,27.0,22,Observed,Veteran serving organizations care deeply about my well being?
+35.0,35.0,23,Observed,Veteran serving organizations care deeply about my well being?
+57.0,57.0,24,Observed,Veteran serving organizations care deeply about my well being?
+45.0,45.0,25,Observed,Veteran serving organizations care deeply about my well being?
+17.0,17.0,26,Observed,Veteran serving organizations care deeply about my well being?
+45.0,45.0,27,Observed,Veteran serving organizations care deeply about my well being?
+62.0,62.0,28,Observed,Veteran serving organizations care deeply about my well being?
+14.0,14.0,29,Observed,Veteran serving organizations care deeply about my well being?
+25.0,25.0,30,Observed,Veteran serving organizations care deeply about my well being?
 37.0,37.0,31,Observed,Veteran serving organizations care deeply about my well being?
-20.0,20.0,32,Observed,Veteran serving organizations care deeply about my well being?
-19.0,19.0,33,Observed,Veteran serving organizations care deeply about my well being?
-35.0,35.0,34,Observed,Veteran serving organizations care deeply about my well being?
-43.0,43.0,35,Observed,Veteran serving organizations care deeply about my well being?
-20.0,20.0,36,Observed,Veteran serving organizations care deeply about my well being?
-45.0,45.0,37,Observed,Veteran serving organizations care deeply about my well being?
-27.0,27.0,38,Observed,Veteran serving organizations care deeply about my well being?
-19.0,19.0,39,Observed,Veteran serving organizations care deeply about my well being?
-38.0,38.0,40,Observed,Veteran serving organizations care deeply about my well being?
-58.0,58.0,41,Observed,Veteran serving organizations care deeply about my well being?
-30.0,30.0,42,Observed,Veteran serving organizations care deeply about my well being?
-24.0,24.0,43,Observed,Veteran serving organizations care deeply about my well being?
-40.0,40.0,44,Observed,Veteran serving organizations care deeply about my well being?
-34.0,34.0,45,Observed,Veteran serving organizations care deeply about my well being?
-32.0,32.0,46,Observed,Veteran serving organizations care deeply about my well being?
-33.0,33.0,47,Observed,Veteran serving organizations care deeply about my well being?
-64.0,64.0,48,Observed,Veteran serving organizations care deeply about my well being?
-35.0,35.0,49,Observed,Veteran serving organizations care deeply about my well being?
+28.0,28.0,32,Observed,Veteran serving organizations care deeply about my well being?
+22.0,22.0,33,Observed,Veteran serving organizations care deeply about my well being?
+40.0,40.0,34,Observed,Veteran serving organizations care deeply about my well being?
+25.0,25.0,35,Observed,Veteran serving organizations care deeply about my well being?
+64.0,64.0,36,Observed,Veteran serving organizations care deeply about my well being?
+34.0,34.0,37,Observed,Veteran serving organizations care deeply about my well being?
+13.0,13.0,38,Observed,Veteran serving organizations care deeply about my well being?
+18.0,18.0,39,Observed,Veteran serving organizations care deeply about my well being?
+47.0,47.0,40,Observed,Veteran serving organizations care deeply about my well being?
+47.0,47.0,41,Observed,Veteran serving organizations care deeply about my well being?
+41.0,41.0,42,Observed,Veteran serving organizations care deeply about my well being?
+20.0,20.0,43,Observed,Veteran serving organizations care deeply about my well being?
+15.0,15.0,44,Observed,Veteran serving organizations care deeply about my well being?
+47.0,47.0,45,Observed,Veteran serving organizations care deeply about my well being?
+58.0,58.0,46,Observed,Veteran serving organizations care deeply about my well being?
+59.0,59.0,47,Observed,Veteran serving organizations care deeply about my well being?
+37.0,37.0,48,Observed,Veteran serving organizations care deeply about my well being?
+20.0,20.0,49,Observed,Veteran serving organizations care deeply about my well being?
 19.0,19.0,50,Observed,Veteran serving organizations care deeply about my well being?
-10.0,10.0,51,Observed,Veteran serving organizations care deeply about my well being?
-27.0,27.0,52,Observed,Veteran serving organizations care deeply about my well being?
-46.0,46.0,53,Observed,Veteran serving organizations care deeply about my well being?
-31.0,28.35135135135135,0,Predicted,Veteran serving organizations care deeply about my well being?
-20.0,15.18918918918919,1,Predicted,Veteran serving organizations care deeply about my well being?
-50.0,33.027027027027025,2,Predicted,Veteran serving organizations care deeply about my well being?
-49.0,30.27027027027027,3,Predicted,Veteran serving organizations care deeply about my well being?
-35.0,34.21621621621622,4,Predicted,Veteran serving organizations care deeply about my well being?
-46.0,30.054054054054053,5,Predicted,Veteran serving organizations care deeply about my well being?
-20.0,23.81081081081081,6,Predicted,Veteran serving organizations care deeply about my well being?
-43.0,37.0,7,Predicted,Veteran serving organizations care deeply about my well being?
-56.0,49.486486486486484,8,Predicted,Veteran serving organizations care deeply about my well being?
-40.0,41.67567567567568,9,Predicted,Veteran serving organizations care deeply about my well being?
-27.0,23.10810810810811,10,Predicted,Veteran serving organizations care deeply about my well being?
-26.0,31.783783783783782,11,Predicted,Veteran serving organizations care deeply about my well being?
-26.0,22.2972972972973,12,Predicted,Veteran serving organizations care deeply about my well being?
-45.0,30.675675675675677,13,Predicted,Veteran serving organizations care deeply about my well being?
-27.0,20.45945945945946,14,Predicted,Veteran serving organizations care deeply about my well being?
-35.0,28.756756756756758,15,Predicted,Veteran serving organizations care deeply about my well being?
-57.0,41.270270270270274,16,Predicted,Veteran serving organizations care deeply about my well being?
-45.0,33.4054054054054,17,Predicted,Veteran serving organizations care deeply about my well being?
-17.0,21.513513513513512,18,Predicted,Veteran serving organizations care deeply about my well being?
-45.0,33.513513513513516,19,Predicted,Veteran serving organizations care deeply about my well being?
-62.0,52.54054054054054,20,Predicted,Veteran serving organizations care deeply about my well being?
-14.0,11.297297297297296,21,Predicted,Veteran serving organizations care deeply about my well being?
-25.0,23.72972972972973,22,Predicted,Veteran serving organizations care deeply about my well being?
-37.0,31.72972972972973,23,Predicted,Veteran serving organizations care deeply about my well being?
-25.0,24.43243243243243,24,Predicted,Veteran serving organizations care deeply about my well being?
-34.0,33.24324324324324,25,Predicted,Veteran serving organizations care deeply about my well being?
-18.0,21.756756756756758,26,Predicted,Veteran serving organizations care deeply about my well being?
-47.0,33.891891891891895,27,Predicted,Veteran serving organizations care deeply about my well being?
-47.0,27.35135135135135,28,Predicted,Veteran serving organizations care deeply about my well being?
-20.0,19.243243243243242,29,Predicted,Veteran serving organizations care deeply about my well being?
-59.0,53.32432432432432,30,Predicted,Veteran serving organizations care deeply about my well being?
-37.0,25.43243243243243,31,Predicted,Veteran serving organizations care deeply about my well being?
-20.0,19.864864864864863,32,Predicted,Veteran serving organizations care deeply about my well being?
-19.0,18.62162162162162,33,Predicted,Veteran serving organizations care deeply about my well being?
-35.0,33.91891891891892,34,Predicted,Veteran serving organizations care deeply about my well being?
-43.0,29.64864864864865,35,Predicted,Veteran serving organizations care deeply about my well being?
-20.0,21.027027027027028,36,Predicted,Veteran serving organizations care deeply about my well being?
-45.0,37.945945945945944,37,Predicted,Veteran serving organizations care deeply about my well being?
-27.0,23.10810810810811,38,Predicted,Veteran serving organizations care deeply about my well being?
-19.0,22.43243243243243,39,Predicted,Veteran serving organizations care deeply about my well being?
-38.0,25.243243243243242,40,Predicted,Veteran serving organizations care deeply about my well being?
-58.0,40.729729729729726,41,Predicted,Veteran serving organizations care deeply about my well being?
-30.0,24.405405405405407,42,Predicted,Veteran serving organizations care deeply about my well being?
-24.0,21.2972972972973,43,Predicted,Veteran serving organizations care deeply about my well being?
-40.0,23.756756756756758,44,Predicted,Veteran serving organizations care deeply about my well being?
-34.0,27.405405405405407,45,Predicted,Veteran serving organizations care deeply about my well being?
-32.0,37.21621621621622,46,Predicted,Veteran serving organizations care deeply about my well being?
-33.0,24.513513513513512,47,Predicted,Veteran serving organizations care deeply about my well being?
-64.0,54.78378378378378,48,Predicted,Veteran serving organizations care deeply about my well being?
-35.0,28.43243243243243,49,Predicted,Veteran serving organizations care deeply about my well being?
-19.0,16.64864864864865,50,Predicted,Veteran serving organizations care deeply about my well being?
-10.0,10.864864864864865,51,Predicted,Veteran serving organizations care deeply about my well being?
-27.0,23.10810810810811,52,Predicted,Veteran serving organizations care deeply about my well being?
-46.0,30.405405405405407,53,Predicted,Veteran serving organizations care deeply about my well being?
-31.0,28.864864864864863,0,After Intervention,Community is involved with veterans?
-33.0,27.43243243243243,1,After Intervention,Community is involved with veterans?
-15.0,25.243243243243242,2,After Intervention,Community is involved with veterans?
-49.0,45.37837837837838,3,After Intervention,Community is involved with veterans?
-13.0,20.62162162162162,4,After Intervention,Community is involved with veterans?
-49.0,30.405405405405407,5,After Intervention,Community is involved with veterans?
-49.0,26.2972972972973,6,After Intervention,Community is involved with veterans?
-36.0,30.91891891891892,7,After Intervention,Community is involved with veterans?
-20.0,24.594594594594593,8,After Intervention,Community is involved with veterans?
-14.0,18.62162162162162,9,After Intervention,Community is involved with veterans?
-31.0,40.351351351351354,10,After Intervention,Community is involved with veterans?
-28.0,26.08108108108108,11,After Intervention,Community is involved with veterans?
-27.0,23.7027027027027,12,After Intervention,Community is involved with veterans?
-26.0,33.16216216216216,13,After Intervention,Community is involved with veterans?
-18.0,17.83783783783784,14,After Intervention,Community is involved with veterans?
-43.0,28.72972972972973,15,After Intervention,Community is involved with veterans?
-26.0,23.405405405405407,16,After Intervention,Community is involved with veterans?
-21.0,36.027027027027025,17,After Intervention,Community is involved with veterans?
-27.0,21.64864864864865,18,After Intervention,Community is involved with veterans?
-41.0,42.2972972972973,19,After Intervention,Community is involved with veterans?
-32.0,27.135135135135137,20,After Intervention,Community is involved with veterans?
-46.0,26.37837837837838,21,After Intervention,Community is involved with veterans?
-41.0,39.891891891891895,22,After Intervention,Community is involved with veterans?
-17.0,23.16216216216216,23,After Intervention,Community is involved with veterans?
-51.0,26.135135135135137,24,After Intervention,Community is involved with veterans?
-25.0,25.72972972972973,25,After Intervention,Community is involved with veterans?
-28.0,25.72972972972973,26,After Intervention,Community is involved with veterans?
-17.0,35.108108108108105,27,After Intervention,Community is involved with veterans?
-40.0,43.432432432432435,28,After Intervention,Community is involved with veterans?
-22.0,24.756756756756758,29,After Intervention,Community is involved with veterans?
-40.0,26.486486486486488,30,After Intervention,Community is involved with veterans?
-49.0,37.0,31,After Intervention,Community is involved with veterans?
-35.0,30.675675675675677,32,After Intervention,Community is involved with veterans?
-47.0,34.54054054054054,33,After Intervention,Community is involved with veterans?
-41.0,25.18918918918919,34,After Intervention,Community is involved with veterans?
-15.0,32.432432432432435,35,After Intervention,Community is involved with veterans?
-52.0,51.13513513513514,36,After Intervention,Community is involved with veterans?
-27.0,28.54054054054054,37,After Intervention,Community is involved with veterans?
-20.0,20.10810810810811,38,After Intervention,Community is involved with veterans?
-15.0,23.16216216216216,39,After Intervention,Community is involved with veterans?
-57.0,47.729729729729726,40,After Intervention,Community is involved with veterans?
-21.0,25.756756756756758,41,After Intervention,Community is involved with veterans?
-37.0,27.35135135135135,42,After Intervention,Community is involved with veterans?
-45.0,45.45945945945946,43,After Intervention,Community is involved with veterans?
-20.0,20.243243243243242,44,After Intervention,Community is involved with veterans?
-19.0,20.27027027027027,45,After Intervention,Community is involved with veterans?
-41.0,28.62162162162162,46,After Intervention,Community is involved with veterans?
-35.0,24.81081081081081,47,After Intervention,Community is involved with veterans?
-53.0,36.78378378378378,48,After Intervention,Community is involved with veterans?
-18.0,25.7027027027027,49,After Intervention,Community is involved with veterans?
-28.0,34.78378378378378,50,After Intervention,Community is involved with veterans?
-48.0,39.78378378378378,51,After Intervention,Community is involved with veterans?
-19.0,23.405405405405407,52,After Intervention,Community is involved with veterans?
-27.0,23.7027027027027,53,After Intervention,Community is involved with veterans?
-34.0,29.37837837837838,54,After Intervention,Community is involved with veterans?
-19.0,22.64864864864865,55,After Intervention,Community is involved with veterans?
-52.0,48.432432432432435,56,After Intervention,Community is involved with veterans?
-23.0,27.0,57,After Intervention,Community is involved with veterans?
-48.0,33.75675675675676,58,After Intervention,Community is involved with veterans?
-40.0,24.72972972972973,59,After Intervention,Community is involved with veterans?
-31.0,42.108108108108105,60,After Intervention,Community is involved with veterans?
-64.0,54.891891891891895,61,After Intervention,Community is involved with veterans?
-12.0,22.72972972972973,62,After Intervention,Community is involved with veterans?
-19.0,17.7027027027027,63,After Intervention,Community is involved with veterans?
-27.0,23.7027027027027,64,After Intervention,Community is involved with veterans?
-46.0,31.62162162162162,65,After Intervention,Community is involved with veterans?
-30.0,26.675675675675677,66,After Intervention,Community is involved with veterans?
+35.0,35.0,51,Observed,Veteran serving organizations care deeply about my well being?
+43.0,43.0,52,Observed,Veteran serving organizations care deeply about my well being?
+57.0,57.0,53,Observed,Veteran serving organizations care deeply about my well being?
+20.0,20.0,54,Observed,Veteran serving organizations care deeply about my well being?
+45.0,45.0,55,Observed,Veteran serving organizations care deeply about my well being?
+34.0,34.0,56,Observed,Veteran serving organizations care deeply about my well being?
+19.0,19.0,57,Observed,Veteran serving organizations care deeply about my well being?
+25.0,25.0,58,Observed,Veteran serving organizations care deeply about my well being?
+45.0,45.0,59,Observed,Veteran serving organizations care deeply about my well being?
+27.0,27.0,60,Observed,Veteran serving organizations care deeply about my well being?
+34.0,34.0,61,Observed,Veteran serving organizations care deeply about my well being?
+43.0,43.0,62,Observed,Veteran serving organizations care deeply about my well being?
+38.0,38.0,63,Observed,Veteran serving organizations care deeply about my well being?
+58.0,58.0,64,Observed,Veteran serving organizations care deeply about my well being?
+60.0,60.0,65,Observed,Veteran serving organizations care deeply about my well being?
+30.0,30.0,66,Observed,Veteran serving organizations care deeply about my well being?
+21.0,21.0,67,Observed,Veteran serving organizations care deeply about my well being?
+24.0,24.0,68,Observed,Veteran serving organizations care deeply about my well being?
+40.0,40.0,69,Observed,Veteran serving organizations care deeply about my well being?
+47.0,47.0,70,Observed,Veteran serving organizations care deeply about my well being?
+46.0,46.0,71,Observed,Veteran serving organizations care deeply about my well being?
+34.0,34.0,72,Observed,Veteran serving organizations care deeply about my well being?
+40.0,40.0,73,Observed,Veteran serving organizations care deeply about my well being?
+32.0,32.0,74,Observed,Veteran serving organizations care deeply about my well being?
+33.0,33.0,75,Observed,Veteran serving organizations care deeply about my well being?
+64.0,64.0,76,Observed,Veteran serving organizations care deeply about my well being?
+35.0,35.0,77,Observed,Veteran serving organizations care deeply about my well being?
+43.0,43.0,78,Observed,Veteran serving organizations care deeply about my well being?
+28.0,28.0,79,Observed,Veteran serving organizations care deeply about my well being?
+22.0,22.0,80,Observed,Veteran serving organizations care deeply about my well being?
+12.0,12.0,81,Observed,Veteran serving organizations care deeply about my well being?
+19.0,19.0,82,Observed,Veteran serving organizations care deeply about my well being?
+10.0,10.0,83,Observed,Veteran serving organizations care deeply about my well being?
+27.0,27.0,84,Observed,Veteran serving organizations care deeply about my well being?
+46.0,46.0,85,Observed,Veteran serving organizations care deeply about my well being?
+63.0,63.0,86,Observed,Veteran serving organizations care deeply about my well being?
+30.0,30.0,87,Observed,Veteran serving organizations care deeply about my well being?
+31.0,27.734351922587216,0,Predicted,Veteran serving organizations care deeply about my well being?
+20.0,21.08894259335436,1,Predicted,Veteran serving organizations care deeply about my well being?
+15.0,26.211082583681964,2,Predicted,Veteran serving organizations care deeply about my well being?
+13.0,24.553006826803628,3,Predicted,Veteran serving organizations care deeply about my well being?
+50.0,35.779957556795786,4,Predicted,Veteran serving organizations care deeply about my well being?
+49.0,47.55773852323351,5,Predicted,Veteran serving organizations care deeply about my well being?
+35.0,39.20310613177636,6,Predicted,Veteran serving organizations care deeply about my well being?
+46.0,34.5311978442663,7,Predicted,Veteran serving organizations care deeply about my well being?
+20.0,25.934544079526784,8,Predicted,Veteran serving organizations care deeply about my well being?
+43.0,44.35614110191952,9,Predicted,Veteran serving organizations care deeply about my well being?
+56.0,50.15919301951132,10,Predicted,Veteran serving organizations care deeply about my well being?
+14.0,20.031391528851426,11,Predicted,Veteran serving organizations care deeply about my well being?
+40.0,52.80489032925375,12,Predicted,Veteran serving organizations care deeply about my well being?
+54.0,42.49232640484453,13,Predicted,Veteran serving organizations care deeply about my well being?
+39.0,37.18980733318969,14,Predicted,Veteran serving organizations care deeply about my well being?
+27.0,29.097135943547393,15,Predicted,Veteran serving organizations care deeply about my well being?
+26.0,41.02872770867428,16,Predicted,Veteran serving organizations care deeply about my well being?
+18.0,22.84966748937337,17,Predicted,Veteran serving organizations care deeply about my well being?
+62.0,56.97247753682715,18,Predicted,Veteran serving organizations care deeply about my well being?
+26.0,28.78342827508156,19,Predicted,Veteran serving organizations care deeply about my well being?
+21.0,40.50081944257696,20,Predicted,Veteran serving organizations care deeply about my well being?
+45.0,39.179293998735844,21,Predicted,Veteran serving organizations care deeply about my well being?
+27.0,28.117201426024952,22,Predicted,Veteran serving organizations care deeply about my well being?
+35.0,35.92535603218012,23,Predicted,Veteran serving organizations care deeply about my well being?
+57.0,51.63142782153479,24,Predicted,Veteran serving organizations care deeply about my well being?
+45.0,35.45951551059081,25,Predicted,Veteran serving organizations care deeply about my well being?
+17.0,25.089403080579558,26,Predicted,Veteran serving organizations care deeply about my well being?
+45.0,40.68719660154541,27,Predicted,Veteran serving organizations care deeply about my well being?
+62.0,54.61754153452014,28,Predicted,Veteran serving organizations care deeply about my well being?
+14.0,22.840679092149685,29,Predicted,Veteran serving organizations care deeply about my well being?
+25.0,30.35340705526056,30,Predicted,Veteran serving organizations care deeply about my well being?
+37.0,36.75182190640661,31,Predicted,Veteran serving organizations care deeply about my well being?
+28.0,37.47064888257615,32,Predicted,Veteran serving organizations care deeply about my well being?
+22.0,24.632949403537644,33,Predicted,Veteran serving organizations care deeply about my well being?
+40.0,29.34261734997029,34,Predicted,Veteran serving organizations care deeply about my well being?
+25.0,32.397288908144056,35,Predicted,Veteran serving organizations care deeply about my well being?
+64.0,57.27121945729759,36,Predicted,Veteran serving organizations care deeply about my well being?
+34.0,37.920658804661606,37,Predicted,Veteran serving organizations care deeply about my well being?
+13.0,21.686168762906732,38,Predicted,Veteran serving organizations care deeply about my well being?
+18.0,23.645687972158562,39,Predicted,Veteran serving organizations care deeply about my well being?
+47.0,41.190434308907435,40,Predicted,Veteran serving organizations care deeply about my well being?
+47.0,33.389972514669736,41,Predicted,Veteran serving organizations care deeply about my well being?
+41.0,27.503639334521694,42,Predicted,Veteran serving organizations care deeply about my well being?
+20.0,23.005774320747587,43,Predicted,Veteran serving organizations care deeply about my well being?
+15.0,24.61576854518031,44,Predicted,Veteran serving organizations care deeply about my well being?
+47.0,33.70084491230634,45,Predicted,Veteran serving organizations care deeply about my well being?
+58.0,55.74480902043444,46,Predicted,Veteran serving organizations care deeply about my well being?
+59.0,56.49515957898312,47,Predicted,Veteran serving organizations care deeply about my well being?
+37.0,29.983133859604454,48,Predicted,Veteran serving organizations care deeply about my well being?
+20.0,23.233824672059967,49,Predicted,Veteran serving organizations care deeply about my well being?
+19.0,23.839330230428065,50,Predicted,Veteran serving organizations care deeply about my well being?
+35.0,35.43366211747786,51,Predicted,Veteran serving organizations care deeply about my well being?
+43.0,35.355232490869795,52,Predicted,Veteran serving organizations care deeply about my well being?
+57.0,57.50607272645805,53,Predicted,Veteran serving organizations care deeply about my well being?
+20.0,20.538583178556443,54,Predicted,Veteran serving organizations care deeply about my well being?
+45.0,41.26268096170945,55,Predicted,Veteran serving organizations care deeply about my well being?
+34.0,29.186617304264367,56,Predicted,Veteran serving organizations care deeply about my well being?
+19.0,27.43999149051218,57,Predicted,Veteran serving organizations care deeply about my well being?
+25.0,34.00538954048114,58,Predicted,Veteran serving organizations care deeply about my well being?
+45.0,48.10442496249039,59,Predicted,Veteran serving organizations care deeply about my well being?
+27.0,29.097135943547393,60,Predicted,Veteran serving organizations care deeply about my well being?
+34.0,32.64796494355318,61,Predicted,Veteran serving organizations care deeply about my well being?
+43.0,53.32093541886797,62,Predicted,Veteran serving organizations care deeply about my well being?
+38.0,34.5249901613538,63,Predicted,Veteran serving organizations care deeply about my well being?
+58.0,51.16046493031394,64,Predicted,Veteran serving organizations care deeply about my well being?
+60.0,38.424751718869366,65,Predicted,Veteran serving organizations care deeply about my well being?
+30.0,31.44806610858661,66,Predicted,Veteran serving organizations care deeply about my well being?
+21.0,22.274784395640012,67,Predicted,Veteran serving organizations care deeply about my well being?
+24.0,30.262820424362765,68,Predicted,Veteran serving organizations care deeply about my well being?
+40.0,33.107069383432545,69,Predicted,Veteran serving organizations care deeply about my well being?
+47.0,36.438332315480906,70,Predicted,Veteran serving organizations care deeply about my well being?
+46.0,38.22530556946466,71,Predicted,Veteran serving organizations care deeply about my well being?
+34.0,33.51899452242021,72,Predicted,Veteran serving organizations care deeply about my well being?
+40.0,29.334040229282447,73,Predicted,Veteran serving organizations care deeply about my well being?
+32.0,42.05064359571715,74,Predicted,Veteran serving organizations care deeply about my well being?
+33.0,30.86890226408945,75,Predicted,Veteran serving organizations care deeply about my well being?
+64.0,54.8499124887195,76,Predicted,Veteran serving organizations care deeply about my well being?
+35.0,35.21154469543675,77,Predicted,Veteran serving organizations care deeply about my well being?
+43.0,42.03093944978714,78,Predicted,Veteran serving organizations care deeply about my well being?
+28.0,39.00657083632756,79,Predicted,Veteran serving organizations care deeply about my well being?
+22.0,29.43347339907823,80,Predicted,Veteran serving organizations care deeply about my well being?
+12.0,27.669469909175792,81,Predicted,Veteran serving organizations care deeply about my well being?
+19.0,22.24984267069829,82,Predicted,Veteran serving organizations care deeply about my well being?
+10.0,18.07852213146331,83,Predicted,Veteran serving organizations care deeply about my well being?
+27.0,29.097135943547393,84,Predicted,Veteran serving organizations care deeply about my well being?
+46.0,33.55392156862745,85,Predicted,Veteran serving organizations care deeply about my well being?
+63.0,39.752228163992875,86,Predicted,Veteran serving organizations care deeply about my well being?
+30.0,28.137187402146587,87,Predicted,Veteran serving organizations care deeply about my well being?
+31.0,30.62482579808783,0,After Intervention,Community is involved with veterans?
+33.0,31.157263877774923,1,After Intervention,Community is involved with veterans?
+20.0,25.72643810957718,2,After Intervention,Community is involved with veterans?
+15.0,28.77480317681432,3,After Intervention,Community is involved with veterans?
+49.0,49.13967161142378,4,After Intervention,Community is involved with veterans?
+13.0,27.433919067184792,5,After Intervention,Community is involved with veterans?
+49.0,34.424560546448554,6,After Intervention,Community is involved with veterans?
+63.0,54.74771832582604,7,After Intervention,Community is involved with veterans?
+36.0,38.34721425750003,8,After Intervention,Community is involved with veterans?
+20.0,28.944248427466427,9,After Intervention,Community is involved with veterans?
+55.0,49.22541556546009,10,After Intervention,Community is involved with veterans?
+51.0,48.48259114403374,11,After Intervention,Community is involved with veterans?
+63.0,53.7610216833642,12,After Intervention,Community is involved with veterans?
+14.0,24.19016874442377,13,After Intervention,Community is involved with veterans?
+19.0,37.35798679865176,14,After Intervention,Community is involved with veterans?
+31.0,45.68172355093122,15,After Intervention,Community is involved with veterans?
+28.0,33.21292163718634,16,After Intervention,Community is involved with veterans?
+27.0,30.680165822165506,17,After Intervention,Community is involved with veterans?
+26.0,41.142530928830986,18,After Intervention,Community is involved with veterans?
+18.0,24.590754833401895,19,After Intervention,Community is involved with veterans?
+59.0,52.6875557009925,20,After Intervention,Community is involved with veterans?
+43.0,37.41520139422707,21,After Intervention,Community is involved with veterans?
+26.0,30.82983057079939,22,After Intervention,Community is involved with veterans?
+21.0,40.81543619837019,23,After Intervention,Community is involved with veterans?
+45.0,39.639684766613236,24,After Intervention,Community is involved with veterans?
+27.0,31.01821152703506,25,After Intervention,Community is involved with veterans?
+41.0,46.116398609396555,26,After Intervention,Community is involved with veterans?
+32.0,32.36618178802723,27,After Intervention,Community is involved with veterans?
+46.0,35.22931788713523,28,After Intervention,Community is involved with veterans?
+41.0,42.80633032854731,29,After Intervention,Community is involved with veterans?
+17.0,28.536712994607733,30,After Intervention,Community is involved with veterans?
+51.0,43.104570569154966,31,After Intervention,Community is involved with veterans?
+62.0,54.80031464376383,32,After Intervention,Community is involved with veterans?
+14.0,25.678385700986322,33,After Intervention,Community is involved with veterans?
+25.0,32.079870179695284,34,After Intervention,Community is involved with veterans?
+28.0,38.18789869940859,35,After Intervention,Community is involved with veterans?
+17.0,41.54865274763776,36,After Intervention,Community is involved with veterans?
+40.0,45.973484389864886,37,After Intervention,Community is involved with veterans?
+22.0,28.541818673242826,38,After Intervention,Community is involved with veterans?
+40.0,31.175594177064763,39,After Intervention,Community is involved with veterans?
+49.0,36.78145870017321,40,After Intervention,Community is involved with veterans?
+13.0,25.761390318452833,41,After Intervention,Community is involved with veterans?
+42.0,34.43026914713459,42,After Intervention,Community is involved with veterans?
+18.0,27.678662637359515,43,After Intervention,Community is involved with veterans?
+35.0,37.956129596711676,44,After Intervention,Community is involved with veterans?
+40.0,34.54854859244014,45,After Intervention,Community is involved with veterans?
+47.0,41.29809919304291,46,After Intervention,Community is involved with veterans?
+41.0,29.936200237670825,47,After Intervention,Community is involved with veterans?
+29.0,51.14753968139539,48,After Intervention,Community is involved with veterans?
+15.0,34.74041455782841,49,After Intervention,Community is involved with veterans?
+52.0,51.29189673497152,50,After Intervention,Community is involved with veterans?
+27.0,34.972671986662014,51,After Intervention,Community is involved with veterans?
+20.0,26.12807427741287,52,After Intervention,Community is involved with veterans?
+20.0,32.15893047913171,53,After Intervention,Community is involved with veterans?
+15.0,26.568627450980394,54,After Intervention,Community is involved with veterans?
+57.0,51.272200835951274,55,After Intervention,Community is involved with veterans?
+21.0,30.69880152527212,56,After Intervention,Community is involved with veterans?
+47.0,41.67016124454647,57,After Intervention,Community is involved with veterans?
+37.0,31.739283592224773,58,After Intervention,Community is involved with veterans?
+45.0,47.75042590824581,59,After Intervention,Community is involved with veterans?
+20.0,27.57088670910599,60,After Intervention,Community is involved with veterans?
+19.0,28.745014939595748,61,After Intervention,Community is involved with veterans?
+41.0,41.93310707575413,62,After Intervention,Community is involved with veterans?
+35.0,29.56669268161568,63,After Intervention,Community is involved with veterans?
+53.0,45.95365089876305,64,After Intervention,Community is involved with veterans?
+20.0,24.933148743710248,65,After Intervention,Community is involved with veterans?
+18.0,31.56672106859272,66,After Intervention,Community is involved with veterans?
+28.0,44.80873644602866,67,After Intervention,Community is involved with veterans?
+48.0,45.46651820711976,68,After Intervention,Community is involved with veterans?
+19.0,29.24688394446346,69,After Intervention,Community is involved with veterans?
+45.0,48.14453191436205,70,After Intervention,Community is involved with veterans?
+27.0,30.680165822165506,71,After Intervention,Community is involved with veterans?
+34.0,34.45063874034462,72,After Intervention,Community is involved with veterans?
+19.0,32.01928018175192,73,After Intervention,Community is involved with veterans?
+52.0,43.800702886336566,74,After Intervention,Community is involved with veterans?
+51.0,46.171107254272535,75,After Intervention,Community is involved with veterans?
+60.0,39.89088362617775,76,After Intervention,Community is involved with veterans?
+23.0,35.138125110183935,77,After Intervention,Community is involved with veterans?
+21.0,27.08242687719696,78,After Intervention,Community is involved with veterans?
+56.0,56.60433051474088,79,After Intervention,Community is involved with veterans?
+46.0,38.815501647896035,80,After Intervention,Community is involved with veterans?
+48.0,44.45313994917521,81,After Intervention,Community is involved with veterans?
+40.0,30.33368372304358,82,After Intervention,Community is involved with veterans?
+28.0,40.09320646071628,83,After Intervention,Community is involved with veterans?
+31.0,49.95094637976853,84,After Intervention,Community is involved with veterans?
+64.0,55.21616557023781,85,After Intervention,Community is involved with veterans?
+12.0,29.477936932348697,86,After Intervention,Community is involved with veterans?
+28.0,29.745597455283054,87,After Intervention,Community is involved with veterans?
+19.0,26.080630599347185,88,After Intervention,Community is involved with veterans?
+46.0,47.784229982641165,89,After Intervention,Community is involved with veterans?
+10.0,24.177005347593585,90,After Intervention,Community is involved with veterans?
+27.0,30.680165822165506,91,After Intervention,Community is involved with veterans?
+46.0,35.14869281045752,92,After Intervention,Community is involved with veterans?
+30.0,29.61674873556188,93,After Intervention,Community is involved with veterans?
 31.0,31.0,0,Observed,Community is involved with veterans?
 33.0,33.0,1,Observed,Community is involved with veterans?
-15.0,15.0,2,Observed,Community is involved with veterans?
-49.0,49.0,3,Observed,Community is involved with veterans?
-13.0,13.0,4,Observed,Community is involved with veterans?
-49.0,49.0,5,Observed,Community is involved with veterans?
+20.0,20.0,2,Observed,Community is involved with veterans?
+15.0,15.0,3,Observed,Community is involved with veterans?
+49.0,49.0,4,Observed,Community is involved with veterans?
+13.0,13.0,5,Observed,Community is involved with veterans?
 49.0,49.0,6,Observed,Community is involved with veterans?
-36.0,36.0,7,Observed,Community is involved with veterans?
-20.0,20.0,8,Observed,Community is involved with veterans?
-14.0,14.0,9,Observed,Community is involved with veterans?
-31.0,31.0,10,Observed,Community is involved with veterans?
-28.0,28.0,11,Observed,Community is involved with veterans?
-27.0,27.0,12,Observed,Community is involved with veterans?
-26.0,26.0,13,Observed,Community is involved with veterans?
-18.0,18.0,14,Observed,Community is involved with veterans?
-43.0,43.0,15,Observed,Community is involved with veterans?
-26.0,26.0,16,Observed,Community is involved with veterans?
-21.0,21.0,17,Observed,Community is involved with veterans?
-27.0,27.0,18,Observed,Community is involved with veterans?
-41.0,41.0,19,Observed,Community is involved with veterans?
-32.0,32.0,20,Observed,Community is involved with veterans?
-46.0,46.0,21,Observed,Community is involved with veterans?
-41.0,41.0,22,Observed,Community is involved with veterans?
-17.0,17.0,23,Observed,Community is involved with veterans?
-51.0,51.0,24,Observed,Community is involved with veterans?
-25.0,25.0,25,Observed,Community is involved with veterans?
-28.0,28.0,26,Observed,Community is involved with veterans?
-17.0,17.0,27,Observed,Community is involved with veterans?
-40.0,40.0,28,Observed,Community is involved with veterans?
-22.0,22.0,29,Observed,Community is involved with veterans?
-40.0,40.0,30,Observed,Community is involved with veterans?
-49.0,49.0,31,Observed,Community is involved with veterans?
-35.0,35.0,32,Observed,Community is involved with veterans?
-47.0,47.0,33,Observed,Community is involved with veterans?
-41.0,41.0,34,Observed,Community is involved with veterans?
-15.0,15.0,35,Observed,Community is involved with veterans?
-52.0,52.0,36,Observed,Community is involved with veterans?
-27.0,27.0,37,Observed,Community is involved with veterans?
-20.0,20.0,38,Observed,Community is involved with veterans?
-15.0,15.0,39,Observed,Community is involved with veterans?
-57.0,57.0,40,Observed,Community is involved with veterans?
-21.0,21.0,41,Observed,Community is involved with veterans?
-37.0,37.0,42,Observed,Community is involved with veterans?
-45.0,45.0,43,Observed,Community is involved with veterans?
-20.0,20.0,44,Observed,Community is involved with veterans?
-19.0,19.0,45,Observed,Community is involved with veterans?
-41.0,41.0,46,Observed,Community is involved with veterans?
-35.0,35.0,47,Observed,Community is involved with veterans?
-53.0,53.0,48,Observed,Community is involved with veterans?
-18.0,18.0,49,Observed,Community is involved with veterans?
-28.0,28.0,50,Observed,Community is involved with veterans?
-48.0,48.0,51,Observed,Community is involved with veterans?
-19.0,19.0,52,Observed,Community is involved with veterans?
-27.0,27.0,53,Observed,Community is involved with veterans?
-34.0,34.0,54,Observed,Community is involved with veterans?
-19.0,19.0,55,Observed,Community is involved with veterans?
-52.0,52.0,56,Observed,Community is involved with veterans?
-23.0,23.0,57,Observed,Community is involved with veterans?
-48.0,48.0,58,Observed,Community is involved with veterans?
-40.0,40.0,59,Observed,Community is involved with veterans?
-31.0,31.0,60,Observed,Community is involved with veterans?
-64.0,64.0,61,Observed,Community is involved with veterans?
-12.0,12.0,62,Observed,Community is involved with veterans?
-19.0,19.0,63,Observed,Community is involved with veterans?
-27.0,27.0,64,Observed,Community is involved with veterans?
-46.0,46.0,65,Observed,Community is involved with veterans?
-30.0,30.0,66,Observed,Community is involved with veterans?
-31.0,28.35135135135135,0,Predicted,Community is involved with veterans?
-33.0,26.54054054054054,1,Predicted,Community is involved with veterans?
-15.0,25.0,2,Predicted,Community is involved with veterans?
-49.0,45.24324324324324,3,Predicted,Community is involved with veterans?
-13.0,19.2972972972973,4,Predicted,Community is involved with veterans?
-49.0,30.27027027027027,5,Predicted,Community is involved with veterans?
-49.0,24.594594594594593,6,Predicted,Community is involved with veterans?
-36.0,30.7027027027027,7,Predicted,Community is involved with veterans?
-20.0,23.81081081081081,8,Predicted,Community is involved with veterans?
-14.0,18.35135135135135,9,Predicted,Community is involved with veterans?
-31.0,36.0,10,Predicted,Community is involved with veterans?
-28.0,23.62162162162162,11,Predicted,Community is involved with veterans?
-27.0,23.10810810810811,12,Predicted,Community is involved with veterans?
-26.0,31.783783783783782,13,Predicted,Community is involved with veterans?
-18.0,17.10810810810811,14,Predicted,Community is involved with veterans?
-43.0,25.89189189189189,15,Predicted,Community is involved with veterans?
-26.0,22.2972972972973,16,Predicted,Community is involved with veterans?
-21.0,33.972972972972975,17,Predicted,Community is involved with veterans?
-27.0,20.45945945945946,18,Predicted,Community is involved with veterans?
-41.0,39.945945945945944,19,Predicted,Community is involved with veterans?
-32.0,26.594594594594593,20,Predicted,Community is involved with veterans?
-46.0,25.945945945945947,21,Predicted,Community is involved with veterans?
-41.0,38.027027027027025,22,Predicted,Community is involved with veterans?
-17.0,21.513513513513512,23,Predicted,Community is involved with veterans?
-51.0,25.027027027027028,24,Predicted,Community is involved with veterans?
-25.0,23.72972972972973,25,Predicted,Community is involved with veterans?
-28.0,24.486486486486488,26,Predicted,Community is involved with veterans?
-17.0,33.13513513513514,27,Predicted,Community is involved with veterans?
-40.0,41.486486486486484,28,Predicted,Community is involved with veterans?
-22.0,23.135135135135137,29,Predicted,Community is involved with veterans?
-40.0,25.945945945945947,30,Predicted,Community is involved with veterans?
-49.0,33.78378378378378,31,Predicted,Community is involved with veterans?
-35.0,29.054054054054053,32,Predicted,Community is involved with veterans?
-47.0,33.891891891891895,33,Predicted,Community is involved with veterans?
-41.0,24.62162162162162,34,Predicted,Community is involved with veterans?
-15.0,31.675675675675677,35,Predicted,Community is involved with veterans?
-52.0,47.189189189189186,36,Predicted,Community is involved with veterans?
-27.0,27.83783783783784,37,Predicted,Community is involved with veterans?
-20.0,19.243243243243242,38,Predicted,Community is involved with veterans?
-15.0,22.324324324324323,39,Predicted,Community is involved with veterans?
-57.0,46.567567567567565,40,Predicted,Community is involved with veterans?
-21.0,22.945945945945947,41,Predicted,Community is involved with veterans?
-37.0,25.43243243243243,42,Predicted,Community is involved with veterans?
-45.0,42.891891891891895,43,Predicted,Community is involved with veterans?
-20.0,19.864864864864863,44,Predicted,Community is involved with veterans?
-19.0,18.62162162162162,45,Predicted,Community is involved with veterans?
-41.0,27.675675675675677,46,Predicted,Community is involved with veterans?
-35.0,23.972972972972972,47,Predicted,Community is involved with veterans?
-53.0,34.45945945945946,48,Predicted,Community is involved with veterans?
-18.0,24.37837837837838,49,Predicted,Community is involved with veterans?
-28.0,33.054054054054056,50,Predicted,Community is involved with veterans?
-48.0,39.351351351351354,51,Predicted,Community is involved with veterans?
-19.0,23.135135135135137,52,Predicted,Community is involved with veterans?
-27.0,23.10810810810811,53,Predicted,Community is involved with veterans?
-34.0,27.027027027027028,54,Predicted,Community is involved with veterans?
-19.0,22.43243243243243,55,Predicted,Community is involved with veterans?
-52.0,48.24324324324324,56,Predicted,Community is involved with veterans?
-23.0,25.945945945945947,57,Predicted,Community is involved with veterans?
-48.0,32.16216216216216,58,Predicted,Community is involved with veterans?
-40.0,24.16216216216216,59,Predicted,Community is involved with veterans?
-31.0,39.24324324324324,60,Predicted,Community is involved with veterans?
-64.0,54.78378378378378,61,Predicted,Community is involved with veterans?
-12.0,21.945945945945947,62,Predicted,Community is involved with veterans?
-19.0,16.64864864864865,63,Predicted,Community is involved with veterans?
-27.0,23.10810810810811,64,Predicted,Community is involved with veterans?
-46.0,30.405405405405407,65,Predicted,Community is involved with veterans?
-30.0,26.10810810810811,66,Predicted,Community is involved with veterans?
-40.0,39.486486486486484,0,After Intervention,Has Dependable Support?
-31.0,29.486486486486488,1,After Intervention,Has Dependable Support?
-20.0,19.54054054054054,2,After Intervention,Has Dependable Support?
-13.0,21.0,3,After Intervention,Has Dependable Support?
-50.0,36.83783783783784,4,After Intervention,Has Dependable Support?
-49.0,46.567567567567565,5,After Intervention,Has Dependable Support?
-49.0,26.27027027027027,6,After Intervention,Has Dependable Support?
-20.0,28.18918918918919,7,After Intervention,Has Dependable Support?
-14.0,19.62162162162162,8,After Intervention,Has Dependable Support?
-19.0,40.86486486486486,9,After Intervention,Has Dependable Support?
-40.0,53.08108108108108,10,After Intervention,Has Dependable Support?
-48.0,41.0,11,After Intervention,Has Dependable Support?
-24.0,43.91891891891892,12,After Intervention,Has Dependable Support?
-18.0,26.216216216216218,13,After Intervention,Has Dependable Support?
-43.0,29.89189189189189,14,After Intervention,Has Dependable Support?
-26.0,25.35135135135135,15,After Intervention,Has Dependable Support?
-27.0,23.405405405405407,16,After Intervention,Has Dependable Support?
-58.0,40.7027027027027,17,After Intervention,Has Dependable Support?
-35.0,32.891891891891895,18,After Intervention,Has Dependable Support?
-57.0,50.270270270270274,19,After Intervention,Has Dependable Support?
-28.0,41.729729729729726,20,After Intervention,Has Dependable Support?
-46.0,30.35135135135135,21,After Intervention,Has Dependable Support?
-52.0,43.513513513513516,22,After Intervention,Has Dependable Support?
-17.0,24.486486486486488,23,After Intervention,Has Dependable Support?
-14.0,15.621621621621621,24,After Intervention,Has Dependable Support?
-25.0,24.054054054054053,25,After Intervention,Has Dependable Support?
-28.0,30.972972972972972,26,After Intervention,Has Dependable Support?
-22.0,26.62162162162162,27,After Intervention,Has Dependable Support?
-37.0,35.62162162162162,28,After Intervention,Has Dependable Support?
-40.0,28.56756756756757,29,After Intervention,Has Dependable Support?
-13.0,22.08108108108108,30,After Intervention,Has Dependable Support?
-47.0,40.45945945945946,31,After Intervention,Has Dependable Support?
-47.0,29.43243243243243,32,After Intervention,Has Dependable Support?
-41.0,25.675675675675677,33,After Intervention,Has Dependable Support?
-61.0,57.08108108108108,34,After Intervention,Has Dependable Support?
-27.0,28.91891891891892,35,After Intervention,Has Dependable Support?
-20.0,22.972972972972972,36,After Intervention,Has Dependable Support?
-41.0,47.945945945945944,37,After Intervention,Has Dependable Support?
-15.0,27.2972972972973,38,After Intervention,Has Dependable Support?
-21.0,27.783783783783782,39,After Intervention,Has Dependable Support?
-37.0,28.35135135135135,40,After Intervention,Has Dependable Support?
-24.0,31.864864864864863,41,After Intervention,Has Dependable Support?
-20.0,24.18918918918919,42,After Intervention,Has Dependable Support?
-19.0,24.405405405405407,43,After Intervention,Has Dependable Support?
-41.0,30.756756756756758,44,After Intervention,Has Dependable Support?
-35.0,25.64864864864865,45,After Intervention,Has Dependable Support?
-18.0,24.675675675675677,46,After Intervention,Has Dependable Support?
-57.0,50.054054054054056,47,After Intervention,Has Dependable Support?
-19.0,24.81081081081081,48,After Intervention,Has Dependable Support?
-34.0,29.0,49,After Intervention,Has Dependable Support?
-29.0,37.189189189189186,50,After Intervention,Has Dependable Support?
-38.0,33.891891891891895,51,After Intervention,Has Dependable Support?
-46.0,42.86486486486486,52,After Intervention,Has Dependable Support?
-58.0,50.13513513513514,53,After Intervention,Has Dependable Support?
-60.0,47.78378378378378,54,After Intervention,Has Dependable Support?
-34.0,31.08108108108108,55,After Intervention,Has Dependable Support?
-30.0,25.89189189189189,56,After Intervention,Has Dependable Support?
-21.0,24.405405405405407,57,After Intervention,Has Dependable Support?
-40.0,25.35135135135135,58,After Intervention,Has Dependable Support?
-34.0,28.7027027027027,59,After Intervention,Has Dependable Support?
-48.0,39.054054054054056,60,After Intervention,Has Dependable Support?
-40.0,29.16216216216216,61,After Intervention,Has Dependable Support?
-33.0,27.027027027027028,62,After Intervention,Has Dependable Support?
-31.0,44.91891891891892,63,After Intervention,Has Dependable Support?
-37.0,44.78378378378378,64,After Intervention,Has Dependable Support?
-19.0,23.756756756756758,65,After Intervention,Has Dependable Support?
-46.0,41.5945945945946,66,After Intervention,Has Dependable Support?
-10.0,15.405405405405405,67,After Intervention,Has Dependable Support?
-63.0,40.62162162162162,68,After Intervention,Has Dependable Support?
-30.0,28.945945945945947,69,After Intervention,Has Dependable Support?
+63.0,63.0,7,Observed,Community is involved with veterans?
+36.0,36.0,8,Observed,Community is involved with veterans?
+20.0,20.0,9,Observed,Community is involved with veterans?
+55.0,55.0,10,Observed,Community is involved with veterans?
+51.0,51.0,11,Observed,Community is involved with veterans?
+63.0,63.0,12,Observed,Community is involved with veterans?
+14.0,14.0,13,Observed,Community is involved with veterans?
+19.0,19.0,14,Observed,Community is involved with veterans?
+31.0,31.0,15,Observed,Community is involved with veterans?
+28.0,28.0,16,Observed,Community is involved with veterans?
+27.0,27.0,17,Observed,Community is involved with veterans?
+26.0,26.0,18,Observed,Community is involved with veterans?
+18.0,18.0,19,Observed,Community is involved with veterans?
+59.0,59.0,20,Observed,Community is involved with veterans?
+43.0,43.0,21,Observed,Community is involved with veterans?
+26.0,26.0,22,Observed,Community is involved with veterans?
+21.0,21.0,23,Observed,Community is involved with veterans?
+45.0,45.0,24,Observed,Community is involved with veterans?
+27.0,27.0,25,Observed,Community is involved with veterans?
+41.0,41.0,26,Observed,Community is involved with veterans?
+32.0,32.0,27,Observed,Community is involved with veterans?
+46.0,46.0,28,Observed,Community is involved with veterans?
+41.0,41.0,29,Observed,Community is involved with veterans?
+17.0,17.0,30,Observed,Community is involved with veterans?
+51.0,51.0,31,Observed,Community is involved with veterans?
+62.0,62.0,32,Observed,Community is involved with veterans?
+14.0,14.0,33,Observed,Community is involved with veterans?
+25.0,25.0,34,Observed,Community is involved with veterans?
+28.0,28.0,35,Observed,Community is involved with veterans?
+17.0,17.0,36,Observed,Community is involved with veterans?
+40.0,40.0,37,Observed,Community is involved with veterans?
+22.0,22.0,38,Observed,Community is involved with veterans?
+40.0,40.0,39,Observed,Community is involved with veterans?
+49.0,49.0,40,Observed,Community is involved with veterans?
+13.0,13.0,41,Observed,Community is involved with veterans?
+42.0,42.0,42,Observed,Community is involved with veterans?
+18.0,18.0,43,Observed,Community is involved with veterans?
+35.0,35.0,44,Observed,Community is involved with veterans?
+40.0,40.0,45,Observed,Community is involved with veterans?
+47.0,47.0,46,Observed,Community is involved with veterans?
+41.0,41.0,47,Observed,Community is involved with veterans?
+29.0,29.0,48,Observed,Community is involved with veterans?
+15.0,15.0,49,Observed,Community is involved with veterans?
+52.0,52.0,50,Observed,Community is involved with veterans?
+27.0,27.0,51,Observed,Community is involved with veterans?
+20.0,20.0,52,Observed,Community is involved with veterans?
+20.0,20.0,53,Observed,Community is involved with veterans?
+15.0,15.0,54,Observed,Community is involved with veterans?
+57.0,57.0,55,Observed,Community is involved with veterans?
+21.0,21.0,56,Observed,Community is involved with veterans?
+47.0,47.0,57,Observed,Community is involved with veterans?
+37.0,37.0,58,Observed,Community is involved with veterans?
+45.0,45.0,59,Observed,Community is involved with veterans?
+20.0,20.0,60,Observed,Community is involved with veterans?
+19.0,19.0,61,Observed,Community is involved with veterans?
+41.0,41.0,62,Observed,Community is involved with veterans?
+35.0,35.0,63,Observed,Community is involved with veterans?
+53.0,53.0,64,Observed,Community is involved with veterans?
+20.0,20.0,65,Observed,Community is involved with veterans?
+18.0,18.0,66,Observed,Community is involved with veterans?
+28.0,28.0,67,Observed,Community is involved with veterans?
+48.0,48.0,68,Observed,Community is involved with veterans?
+19.0,19.0,69,Observed,Community is involved with veterans?
+45.0,45.0,70,Observed,Community is involved with veterans?
+27.0,27.0,71,Observed,Community is involved with veterans?
+34.0,34.0,72,Observed,Community is involved with veterans?
+19.0,19.0,73,Observed,Community is involved with veterans?
+52.0,52.0,74,Observed,Community is involved with veterans?
+51.0,51.0,75,Observed,Community is involved with veterans?
+60.0,60.0,76,Observed,Community is involved with veterans?
+23.0,23.0,77,Observed,Community is involved with veterans?
+21.0,21.0,78,Observed,Community is involved with veterans?
+56.0,56.0,79,Observed,Community is involved with veterans?
+46.0,46.0,80,Observed,Community is involved with veterans?
+48.0,48.0,81,Observed,Community is involved with veterans?
+40.0,40.0,82,Observed,Community is involved with veterans?
+28.0,28.0,83,Observed,Community is involved with veterans?
+31.0,31.0,84,Observed,Community is involved with veterans?
+64.0,64.0,85,Observed,Community is involved with veterans?
+12.0,12.0,86,Observed,Community is involved with veterans?
+28.0,28.0,87,Observed,Community is involved with veterans?
+19.0,19.0,88,Observed,Community is involved with veterans?
+46.0,46.0,89,Observed,Community is involved with veterans?
+10.0,10.0,90,Observed,Community is involved with veterans?
+27.0,27.0,91,Observed,Community is involved with veterans?
+46.0,46.0,92,Observed,Community is involved with veterans?
+30.0,30.0,93,Observed,Community is involved with veterans?
+31.0,27.734351922587216,0,Predicted,Community is involved with veterans?
+33.0,30.112506204444507,1,Predicted,Community is involved with veterans?
+20.0,21.08894259335436,2,Predicted,Community is involved with veterans?
+15.0,26.21108258368197,3,Predicted,Community is involved with veterans?
+49.0,49.05329531797822,4,Predicted,Community is involved with veterans?
+13.0,24.553006826803628,5,Predicted,Community is involved with veterans?
+49.0,33.188077050228756,6,Predicted,Community is involved with veterans?
+63.0,54.74413591596021,7,Predicted,Community is involved with veterans?
+36.0,38.22016720043268,8,Predicted,Community is involved with veterans?
+20.0,25.934544079526784,9,Predicted,Community is involved with veterans?
+55.0,49.15569562408238,10,Predicted,Community is involved with veterans?
+51.0,47.88860506475354,11,Predicted,Community is involved with veterans?
+63.0,53.49780563462886,12,Predicted,Community is involved with veterans?
+14.0,20.031391528851426,13,Predicted,Community is involved with veterans?
+19.0,35.1656062891357,14,Predicted,Community is involved with veterans?
+31.0,40.704279166039704,15,Predicted,Community is involved with veterans?
+28.0,30.68373268887975,16,Predicted,Community is involved with veterans?
+27.0,29.097135943547393,17,Predicted,Community is involved with veterans?
+26.0,41.02872770867428,18,Predicted,Community is involved with veterans?
+18.0,22.84966748937337,19,Predicted,Community is involved with veterans?
+59.0,52.1108437714766,20,Predicted,Community is involved with veterans?
+43.0,36.19833215235782,21,Predicted,Community is involved with veterans?
+26.0,28.78342827508156,22,Predicted,Community is involved with veterans?
+21.0,40.50081944257696,23,Predicted,Community is involved with veterans?
+45.0,39.179293998735844,24,Predicted,Community is involved with veterans?
+27.0,28.117201426024952,25,Predicted,Community is involved with veterans?
+41.0,45.49511394689477,26,Predicted,Community is involved with veterans?
+32.0,30.89745289831607,27,Predicted,Community is involved with veterans?
+46.0,33.877195826189634,28,Predicted,Community is involved with veterans?
+41.0,40.05717551682271,29,Predicted,Community is involved with veterans?
+17.0,25.089403080579558,30,Predicted,Community is involved with veterans?
+51.0,41.61535488288045,31,Predicted,Community is involved with veterans?
+62.0,54.61754153452013,32,Predicted,Community is involved with veterans?
+14.0,22.840679092149685,33,Predicted,Community is involved with veterans?
+25.0,30.353407055260558,34,Predicted,Community is involved with veterans?
+28.0,37.47064888257615,35,Predicted,Community is involved with veterans?
+17.0,37.643037498316495,36,Predicted,Community is involved with veterans?
+40.0,43.58264931594505,37,Predicted,Community is involved with veterans?
+22.0,24.63294940353764,38,Predicted,Community is involved with veterans?
+40.0,29.34261734997029,39,Predicted,Community is involved with veterans?
+49.0,35.22819709249984,40,Predicted,Community is involved with veterans?
+13.0,21.686168762906735,41,Predicted,Community is involved with veterans?
+42.0,34.020280546393636,42,Predicted,Community is involved with veterans?
+18.0,23.645687972158566,43,Predicted,Community is involved with veterans?
+35.0,36.785357839733024,44,Predicted,Community is involved with veterans?
+40.0,32.24401181905311,45,Predicted,Community is involved with veterans?
+47.0,41.190434308907435,46,Predicted,Community is involved with veterans?
+41.0,27.503639334521694,47,Predicted,Community is involved with veterans?
+29.0,51.135545407101645,48,Predicted,Community is involved with veterans?
+15.0,33.8465338847356,49,Predicted,Community is involved with veterans?
+52.0,50.40602336920041,50,Predicted,Community is involved with veterans?
+27.0,33.81755263061386,51,Predicted,Community is involved with veterans?
+20.0,23.005774320747587,52,Predicted,Community is involved with veterans?
+20.0,31.741892451799565,53,Predicted,Community is involved with veterans?
+15.0,24.61576854518031,54,Predicted,Community is involved with veterans?
+57.0,50.92440746878917,55,Predicted,Community is involved with veterans?
+21.0,27.061319755704783,56,Predicted,Community is involved with veterans?
+47.0,41.586613217185054,57,Predicted,Community is involved with veterans?
+37.0,29.983133859604454,58,Predicted,Community is involved with veterans?
+45.0,44.98006708364167,59,Predicted,Community is involved with veterans?
+20.0,23.233824672059967,60,Predicted,Community is involved with veterans?
+19.0,23.83933023042806,61,Predicted,Community is involved with veterans?
+41.0,40.83239406327641,62,Predicted,Community is involved with veterans?
+35.0,27.67299849232622,63,Predicted,Community is involved with veterans?
+53.0,44.77953291789922,64,Predicted,Community is involved with veterans?
+20.0,20.53858317855644,65,Predicted,Community is involved with veterans?
+18.0,28.728975970553513,66,Predicted,Community is involved with veterans?
+28.0,40.74648039530629,67,Predicted,Community is involved with veterans?
+48.0,43.68869761350081,68,Predicted,Community is involved with veterans?
+19.0,27.43999149051218,69,Predicted,Community is involved with veterans?
+45.0,48.10442496249039,70,Predicted,Community is involved with veterans?
+27.0,29.097135943547393,71,Predicted,Community is involved with veterans?
+34.0,32.64796494355318,72,Predicted,Community is involved with veterans?
+19.0,31.10034657985685,73,Predicted,Community is involved with veterans?
+52.0,42.588867341808516,74,Predicted,Community is involved with veterans?
+51.0,44.68511675997003,75,Predicted,Community is involved with veterans?
+60.0,38.424751718869366,76,Predicted,Community is involved with veterans?
+23.0,34.53705559146735,77,Predicted,Community is involved with veterans?
+21.0,22.274784395640015,78,Predicted,Community is involved with veterans?
+56.0,56.52978496225415,79,Predicted,Community is involved with veterans?
+46.0,38.22530556946466,80,Predicted,Community is involved with veterans?
+48.0,43.533353852918516,81,Predicted,Community is involved with veterans?
+40.0,29.334040229282447,82,Predicted,Community is involved with veterans?
+28.0,39.985133755049986,83,Predicted,Community is involved with veterans?
+31.0,48.53578416429453,84,Predicted,Community is involved with veterans?
+64.0,54.84991248871948,85,Predicted,Community is involved with veterans?
+12.0,27.669469909175792,86,Predicted,Community is involved with veterans?
+28.0,28.312442375069146,87,Predicted,Community is involved with veterans?
+19.0,22.249842670698296,88,Predicted,Community is involved with veterans?
+46.0,47.6017960173195,89,Predicted,Community is involved with veterans?
+10.0,18.07852213146331,90,Predicted,Community is involved with veterans?
+27.0,29.097135943547393,91,Predicted,Community is involved with veterans?
+46.0,33.55392156862745,92,Predicted,Community is involved with veterans?
+30.0,28.137187402146587,93,Predicted,Community is involved with veterans?
+40.0,45.35463444622315,0,After Intervention,Has Dependable Support?
+31.0,29.125451998981408,1,After Intervention,Has Dependable Support?
+20.0,22.456339472361147,2,After Intervention,Has Dependable Support?
+13.0,25.709201122703803,3,After Intervention,Has Dependable Support?
+50.0,38.94260459126034,4,After Intervention,Has Dependable Support?
+49.0,51.25934280130837,5,After Intervention,Has Dependable Support?
+49.0,34.0629964803664,6,After Intervention,Has Dependable Support?
+46.0,35.804233391913954,7,After Intervention,Has Dependable Support?
+20.0,28.048458156356464,8,After Intervention,Has Dependable Support?
+14.0,21.353792968766236,9,After Intervention,Has Dependable Support?
+19.0,38.71441793500616,10,After Intervention,Has Dependable Support?
+40.0,55.57187687980432,11,After Intervention,Has Dependable Support?
+48.0,48.283151893788066,12,After Intervention,Has Dependable Support?
+28.0,32.27527203188968,13,After Intervention,Has Dependable Support?
+42.0,40.76581839200777,14,After Intervention,Has Dependable Support?
+24.0,43.71687046189975,15,After Intervention,Has Dependable Support?
+18.0,26.556450683656482,16,After Intervention,Has Dependable Support?
+43.0,36.441887288389474,17,After Intervention,Has Dependable Support?
+26.0,29.60113854087436,18,After Intervention,Has Dependable Support?
+27.0,29.528260714174024,19,After Intervention,Has Dependable Support?
+58.0,43.798024693359224,20,After Intervention,Has Dependable Support?
+35.0,37.66108071986215,21,After Intervention,Has Dependable Support?
+57.0,54.79051272996532,22,After Intervention,Has Dependable Support?
+28.0,47.48147988859914,23,After Intervention,Has Dependable Support?
+52.0,46.83741410947007,24,After Intervention,Has Dependable Support?
+17.0,26.36885357289769,25,After Intervention,Has Dependable Support?
+14.0,23.44973441591089,26,After Intervention,Has Dependable Support?
+25.0,31.647544259229164,27,After Intervention,Has Dependable Support?
+37.0,38.798606184456276,28,After Intervention,Has Dependable Support?
+28.0,40.05160886157087,29,After Intervention,Has Dependable Support?
+22.0,26.852924852924854,30,After Intervention,Has Dependable Support?
+37.0,38.08605998517131,31,After Intervention,Has Dependable Support?
+40.0,32.290017592483935,32,After Intervention,Has Dependable Support?
+38.0,40.62646973950133,33,After Intervention,Has Dependable Support?
+13.0,22.666674102080805,34,After Intervention,Has Dependable Support?
+51.0,50.555040705274166,35,After Intervention,Has Dependable Support?
+35.0,39.43716941602176,36,After Intervention,Has Dependable Support?
+47.0,45.25580456735889,37,After Intervention,Has Dependable Support?
+47.0,36.97899918392777,38,After Intervention,Has Dependable Support?
+41.0,28.40060903149138,39,After Intervention,Has Dependable Support?
+61.0,58.793775626535776,40,After Intervention,Has Dependable Support?
+27.0,34.25637828987113,41,After Intervention,Has Dependable Support?
+20.0,24.828773699562472,42,After Intervention,Has Dependable Support?
+41.0,53.187668434989845,43,After Intervention,Has Dependable Support?
+15.0,28.439948954788527,44,After Intervention,Has Dependable Support?
+47.0,36.691692951408534,45,After Intervention,Has Dependable Support?
+21.0,27.096025097896757,46,After Intervention,Has Dependable Support?
+37.0,32.225112469230126,47,After Intervention,Has Dependable Support?
+24.0,40.38309972687591,48,After Intervention,Has Dependable Support?
+20.0,24.85919603272545,49,After Intervention,Has Dependable Support?
+19.0,26.111845593852514,50,After Intervention,Has Dependable Support?
+41.0,42.93020320288122,51,After Intervention,Has Dependable Support?
+35.0,29.004176432554537,52,After Intervention,Has Dependable Support?
+28.0,40.53277376284861,53,After Intervention,Has Dependable Support?
+18.0,29.471946699514955,54,After Intervention,Has Dependable Support?
+57.0,50.88031477075946,55,After Intervention,Has Dependable Support?
+19.0,30.574321035002153,56,After Intervention,Has Dependable Support?
+34.0,34.051728515097494,57,After Intervention,Has Dependable Support?
+29.0,39.82209573099894,58,After Intervention,Has Dependable Support?
+38.0,38.925888486688194,59,After Intervention,Has Dependable Support?
+46.0,46.16591563869451,60,After Intervention,Has Dependable Support?
+58.0,53.80669810890006,61,After Intervention,Has Dependable Support?
+60.0,41.39507257448433,62,After Intervention,Has Dependable Support?
+30.0,33.92689037627462,63,After Intervention,Has Dependable Support?
+21.0,23.94485507143824,64,After Intervention,Has Dependable Support?
+40.0,33.32387277834422,65,After Intervention,Has Dependable Support?
+34.0,36.23650149632319,66,After Intervention,Has Dependable Support?
+48.0,46.9301723263961,67,After Intervention,Has Dependable Support?
+40.0,31.720468684962235,68,After Intervention,Has Dependable Support?
+33.0,31.71778094903886,69,After Intervention,Has Dependable Support?
+31.0,50.32955766298866,70,After Intervention,Has Dependable Support?
+37.0,47.279185633063854,71,After Intervention,Has Dependable Support?
+35.0,36.09908054045922,72,After Intervention,Has Dependable Support?
+19.0,23.589545956123505,73,After Intervention,Has Dependable Support?
+46.0,48.80873070927437,74,After Intervention,Has Dependable Support?
+10.0,19.8839275103981,75,After Intervention,Has Dependable Support?
+46.0,34.91214563934441,76,After Intervention,Has Dependable Support?
+63.0,44.39475850946439,77,After Intervention,Has Dependable Support?
+30.0,30.088533946273884,78,After Intervention,Has Dependable Support?
 40.0,40.0,0,Observed,Has Dependable Support?
 31.0,31.0,1,Observed,Has Dependable Support?
 20.0,20.0,2,Observed,Has Dependable Support?
@@ -439,586 +631,682 @@ Hope Scale Score,Predicted Hope Scale Score,id,With Intervention,Impact Type
 50.0,50.0,4,Observed,Has Dependable Support?
 49.0,49.0,5,Observed,Has Dependable Support?
 49.0,49.0,6,Observed,Has Dependable Support?
-20.0,20.0,7,Observed,Has Dependable Support?
-14.0,14.0,8,Observed,Has Dependable Support?
-19.0,19.0,9,Observed,Has Dependable Support?
-40.0,40.0,10,Observed,Has Dependable Support?
-48.0,48.0,11,Observed,Has Dependable Support?
-24.0,24.0,12,Observed,Has Dependable Support?
-18.0,18.0,13,Observed,Has Dependable Support?
-43.0,43.0,14,Observed,Has Dependable Support?
-26.0,26.0,15,Observed,Has Dependable Support?
-27.0,27.0,16,Observed,Has Dependable Support?
-58.0,58.0,17,Observed,Has Dependable Support?
-35.0,35.0,18,Observed,Has Dependable Support?
-57.0,57.0,19,Observed,Has Dependable Support?
-28.0,28.0,20,Observed,Has Dependable Support?
-46.0,46.0,21,Observed,Has Dependable Support?
-52.0,52.0,22,Observed,Has Dependable Support?
-17.0,17.0,23,Observed,Has Dependable Support?
-14.0,14.0,24,Observed,Has Dependable Support?
-25.0,25.0,25,Observed,Has Dependable Support?
-28.0,28.0,26,Observed,Has Dependable Support?
-22.0,22.0,27,Observed,Has Dependable Support?
+46.0,46.0,7,Observed,Has Dependable Support?
+20.0,20.0,8,Observed,Has Dependable Support?
+14.0,14.0,9,Observed,Has Dependable Support?
+19.0,19.0,10,Observed,Has Dependable Support?
+40.0,40.0,11,Observed,Has Dependable Support?
+48.0,48.0,12,Observed,Has Dependable Support?
+28.0,28.0,13,Observed,Has Dependable Support?
+42.0,42.0,14,Observed,Has Dependable Support?
+24.0,24.0,15,Observed,Has Dependable Support?
+18.0,18.0,16,Observed,Has Dependable Support?
+43.0,43.0,17,Observed,Has Dependable Support?
+26.0,26.0,18,Observed,Has Dependable Support?
+27.0,27.0,19,Observed,Has Dependable Support?
+58.0,58.0,20,Observed,Has Dependable Support?
+35.0,35.0,21,Observed,Has Dependable Support?
+57.0,57.0,22,Observed,Has Dependable Support?
+28.0,28.0,23,Observed,Has Dependable Support?
+52.0,52.0,24,Observed,Has Dependable Support?
+17.0,17.0,25,Observed,Has Dependable Support?
+14.0,14.0,26,Observed,Has Dependable Support?
+25.0,25.0,27,Observed,Has Dependable Support?
 37.0,37.0,28,Observed,Has Dependable Support?
-40.0,40.0,29,Observed,Has Dependable Support?
-13.0,13.0,30,Observed,Has Dependable Support?
-47.0,47.0,31,Observed,Has Dependable Support?
-47.0,47.0,32,Observed,Has Dependable Support?
-41.0,41.0,33,Observed,Has Dependable Support?
-61.0,61.0,34,Observed,Has Dependable Support?
-27.0,27.0,35,Observed,Has Dependable Support?
-20.0,20.0,36,Observed,Has Dependable Support?
-41.0,41.0,37,Observed,Has Dependable Support?
-15.0,15.0,38,Observed,Has Dependable Support?
-21.0,21.0,39,Observed,Has Dependable Support?
-37.0,37.0,40,Observed,Has Dependable Support?
-24.0,24.0,41,Observed,Has Dependable Support?
+28.0,28.0,29,Observed,Has Dependable Support?
+22.0,22.0,30,Observed,Has Dependable Support?
+37.0,37.0,31,Observed,Has Dependable Support?
+40.0,40.0,32,Observed,Has Dependable Support?
+38.0,38.0,33,Observed,Has Dependable Support?
+13.0,13.0,34,Observed,Has Dependable Support?
+51.0,51.0,35,Observed,Has Dependable Support?
+35.0,35.0,36,Observed,Has Dependable Support?
+47.0,47.0,37,Observed,Has Dependable Support?
+47.0,47.0,38,Observed,Has Dependable Support?
+41.0,41.0,39,Observed,Has Dependable Support?
+61.0,61.0,40,Observed,Has Dependable Support?
+27.0,27.0,41,Observed,Has Dependable Support?
 20.0,20.0,42,Observed,Has Dependable Support?
-19.0,19.0,43,Observed,Has Dependable Support?
-41.0,41.0,44,Observed,Has Dependable Support?
-35.0,35.0,45,Observed,Has Dependable Support?
-18.0,18.0,46,Observed,Has Dependable Support?
-57.0,57.0,47,Observed,Has Dependable Support?
-19.0,19.0,48,Observed,Has Dependable Support?
-34.0,34.0,49,Observed,Has Dependable Support?
-29.0,29.0,50,Observed,Has Dependable Support?
-38.0,38.0,51,Observed,Has Dependable Support?
-46.0,46.0,52,Observed,Has Dependable Support?
-58.0,58.0,53,Observed,Has Dependable Support?
-60.0,60.0,54,Observed,Has Dependable Support?
-34.0,34.0,55,Observed,Has Dependable Support?
-30.0,30.0,56,Observed,Has Dependable Support?
-21.0,21.0,57,Observed,Has Dependable Support?
-40.0,40.0,58,Observed,Has Dependable Support?
-34.0,34.0,59,Observed,Has Dependable Support?
-48.0,48.0,60,Observed,Has Dependable Support?
-40.0,40.0,61,Observed,Has Dependable Support?
-33.0,33.0,62,Observed,Has Dependable Support?
-31.0,31.0,63,Observed,Has Dependable Support?
-37.0,37.0,64,Observed,Has Dependable Support?
-19.0,19.0,65,Observed,Has Dependable Support?
-46.0,46.0,66,Observed,Has Dependable Support?
-10.0,10.0,67,Observed,Has Dependable Support?
-63.0,63.0,68,Observed,Has Dependable Support?
-30.0,30.0,69,Observed,Has Dependable Support?
-40.0,38.0,0,Predicted,Has Dependable Support?
-31.0,28.35135135135135,1,Predicted,Has Dependable Support?
-20.0,15.18918918918919,2,Predicted,Has Dependable Support?
-13.0,19.2972972972973,3,Predicted,Has Dependable Support?
-50.0,33.027027027027025,4,Predicted,Has Dependable Support?
-49.0,30.27027027027027,5,Predicted,Has Dependable Support?
-49.0,24.594594594594593,6,Predicted,Has Dependable Support?
-20.0,23.81081081081081,7,Predicted,Has Dependable Support?
-14.0,18.35135135135135,8,Predicted,Has Dependable Support?
-19.0,29.783783783783782,9,Predicted,Has Dependable Support?
-40.0,41.67567567567568,10,Predicted,Has Dependable Support?
-48.0,40.62162162162162,11,Predicted,Has Dependable Support?
-24.0,34.21621621621622,12,Predicted,Has Dependable Support?
-18.0,17.10810810810811,13,Predicted,Has Dependable Support?
-43.0,25.89189189189189,14,Predicted,Has Dependable Support?
-26.0,22.2972972972973,15,Predicted,Has Dependable Support?
-27.0,20.45945945945946,16,Predicted,Has Dependable Support?
-58.0,37.7027027027027,17,Predicted,Has Dependable Support?
-35.0,28.756756756756758,18,Predicted,Has Dependable Support?
-57.0,41.270270270270274,19,Predicted,Has Dependable Support?
-28.0,40.37837837837838,20,Predicted,Has Dependable Support?
-46.0,25.945945945945947,21,Predicted,Has Dependable Support?
-52.0,38.351351351351354,22,Predicted,Has Dependable Support?
-17.0,21.513513513513512,23,Predicted,Has Dependable Support?
-14.0,11.297297297297296,24,Predicted,Has Dependable Support?
-25.0,23.72972972972973,25,Predicted,Has Dependable Support?
-28.0,24.486486486486488,26,Predicted,Has Dependable Support?
-22.0,23.135135135135137,27,Predicted,Has Dependable Support?
-37.0,34.4054054054054,28,Predicted,Has Dependable Support?
-40.0,25.945945945945947,29,Predicted,Has Dependable Support?
-13.0,19.91891891891892,30,Predicted,Has Dependable Support?
-47.0,33.891891891891895,31,Predicted,Has Dependable Support?
-47.0,27.35135135135135,32,Predicted,Has Dependable Support?
-41.0,24.62162162162162,33,Predicted,Has Dependable Support?
-61.0,52.86486486486486,34,Predicted,Has Dependable Support?
-27.0,27.83783783783784,35,Predicted,Has Dependable Support?
-20.0,19.243243243243242,36,Predicted,Has Dependable Support?
-41.0,38.0,37,Predicted,Has Dependable Support?
-15.0,22.324324324324323,38,Predicted,Has Dependable Support?
-21.0,22.945945945945947,39,Predicted,Has Dependable Support?
-37.0,25.43243243243243,40,Predicted,Has Dependable Support?
-24.0,28.405405405405407,41,Predicted,Has Dependable Support?
-20.0,19.864864864864863,42,Predicted,Has Dependable Support?
-19.0,18.62162162162162,43,Predicted,Has Dependable Support?
-41.0,27.675675675675677,44,Predicted,Has Dependable Support?
-35.0,23.972972972972972,45,Predicted,Has Dependable Support?
-18.0,24.37837837837838,46,Predicted,Has Dependable Support?
-57.0,40.7027027027027,47,Predicted,Has Dependable Support?
-19.0,23.135135135135137,48,Predicted,Has Dependable Support?
-34.0,27.027027027027028,49,Predicted,Has Dependable Support?
-29.0,31.756756756756758,50,Predicted,Has Dependable Support?
-38.0,25.243243243243242,51,Predicted,Has Dependable Support?
-46.0,41.67567567567568,52,Predicted,Has Dependable Support?
-58.0,40.729729729729726,53,Predicted,Has Dependable Support?
-60.0,45.810810810810814,54,Predicted,Has Dependable Support?
-34.0,30.64864864864865,55,Predicted,Has Dependable Support?
-30.0,24.405405405405407,56,Predicted,Has Dependable Support?
-21.0,21.243243243243242,57,Predicted,Has Dependable Support?
-40.0,23.756756756756758,58,Predicted,Has Dependable Support?
-34.0,27.405405405405407,59,Predicted,Has Dependable Support?
-48.0,32.16216216216216,60,Predicted,Has Dependable Support?
-40.0,24.16216216216216,61,Predicted,Has Dependable Support?
-33.0,24.513513513513512,62,Predicted,Has Dependable Support?
-31.0,39.24324324324324,63,Predicted,Has Dependable Support?
-37.0,39.86486486486486,64,Predicted,Has Dependable Support?
-19.0,16.64864864864865,65,Predicted,Has Dependable Support?
-46.0,36.24324324324324,66,Predicted,Has Dependable Support?
-10.0,10.864864864864865,67,Predicted,Has Dependable Support?
-63.0,40.0,68,Predicted,Has Dependable Support?
-30.0,26.10810810810811,69,Predicted,Has Dependable Support?
-31.0,28.405405405405407,0,After Intervention,Owns a car?
-48.0,31.35135135135135,1,After Intervention,Owns a car?
-30.0,29.243243243243242,2,After Intervention,Owns a car?
-23.0,51.891891891891895,3,After Intervention,Owns a car?
-13.0,19.35135135135135,4,After Intervention,Owns a car?
-40.0,29.72972972972973,5,After Intervention,Owns a car?
-50.0,34.75675675675676,6,After Intervention,Owns a car?
-47.0,53.32432432432432,7,After Intervention,Owns a car?
-41.0,49.0,8,After Intervention,Owns a car?
-44.0,40.67567567567568,9,After Intervention,Owns a car?
-54.0,35.0,10,After Intervention,Owns a car?
-34.0,35.891891891891895,11,After Intervention,Owns a car?
-48.0,47.91891891891892,12,After Intervention,Owns a car?
-50.0,48.08108108108108,13,After Intervention,Owns a car?
-46.0,41.67567567567568,14,After Intervention,Owns a car?
-39.0,39.7027027027027,15,After Intervention,Owns a car?
-37.0,38.91891891891892,16,After Intervention,Owns a car?
-19.0,31.027027027027028,17,After Intervention,Owns a car?
-47.0,37.45945945945946,18,After Intervention,Owns a car?
-43.0,43.648648648648646,19,After Intervention,Owns a car?
-37.0,46.78378378378378,20,After Intervention,Owns a car?
-54.0,39.945945945945944,21,After Intervention,Owns a car?
-45.0,49.78378378378378,22,After Intervention,Owns a car?
-31.0,36.270270270270274,23,After Intervention,Owns a car?
-22.0,43.027027027027025,24,After Intervention,Owns a car?
-50.0,42.5945945945946,25,After Intervention,Owns a car?
-24.0,36.13513513513514,26,After Intervention,Owns a car?
-58.0,50.054054054054056,27,After Intervention,Owns a car?
-47.0,51.16216216216216,28,After Intervention,Owns a car?
-56.0,39.45945945945946,29,After Intervention,Owns a car?
-24.0,38.486486486486484,30,After Intervention,Owns a car?
-56.0,45.891891891891895,31,After Intervention,Owns a car?
-27.0,38.4054054054054,32,After Intervention,Owns a car?
-51.0,48.08108108108108,33,After Intervention,Owns a car?
-43.0,26.16216216216216,34,After Intervention,Owns a car?
-26.0,22.513513513513512,35,After Intervention,Owns a car?
-27.0,20.7027027027027,36,After Intervention,Owns a car?
-48.0,46.513513513513516,37,After Intervention,Owns a car?
-52.0,51.67567567567568,38,After Intervention,Owns a car?
-38.0,47.0,39,After Intervention,Owns a car?
-37.0,34.648648648648646,40,After Intervention,Owns a car?
-56.0,42.08108108108108,41,After Intervention,Owns a car?
-35.0,28.91891891891892,42,After Intervention,Owns a car?
-53.0,40.351351351351354,43,After Intervention,Owns a car?
-32.0,27.054054054054053,44,After Intervention,Owns a car?
-46.0,26.594594594594593,45,After Intervention,Owns a car?
-50.0,50.0,46,After Intervention,Owns a car?
-46.0,38.16216216216216,47,After Intervention,Owns a car?
-46.0,37.270270270270274,48,After Intervention,Owns a car?
-17.0,22.054054054054053,49,After Intervention,Owns a car?
-38.0,42.972972972972975,50,After Intervention,Owns a car?
-35.0,31.027027027027028,51,After Intervention,Owns a car?
-38.0,37.567567567567565,52,After Intervention,Owns a car?
-39.0,42.83783783783784,53,After Intervention,Owns a car?
-63.0,45.08108108108108,54,After Intervention,Owns a car?
-17.0,35.027027027027025,55,After Intervention,Owns a car?
-40.0,42.67567567567568,56,After Intervention,Owns a car?
-33.0,30.83783783783784,57,After Intervention,Owns a car?
-22.0,23.513513513513512,58,After Intervention,Owns a car?
-37.0,34.486486486486484,59,After Intervention,Owns a car?
-56.0,45.189189189189186,60,After Intervention,Owns a car?
-49.0,36.32432432432432,61,After Intervention,Owns a car?
-47.0,40.0,62,After Intervention,Owns a car?
-43.0,44.45945945945946,63,After Intervention,Owns a car?
-36.0,35.78378378378378,64,After Intervention,Owns a car?
-29.0,37.810810810810814,65,After Intervention,Owns a car?
-48.0,43.21621621621622,66,After Intervention,Owns a car?
-54.0,53.83783783783784,67,After Intervention,Owns a car?
-33.0,35.432432432432435,68,After Intervention,Owns a car?
-34.0,33.45945945945946,69,After Intervention,Owns a car?
-37.0,33.32432432432432,70,After Intervention,Owns a car?
-53.0,47.08108108108108,71,After Intervention,Owns a car?
-44.0,43.13513513513514,72,After Intervention,Owns a car?
-52.0,46.45945945945946,73,After Intervention,Owns a car?
-43.0,41.86486486486486,74,After Intervention,Owns a car?
-51.0,42.62162162162162,75,After Intervention,Owns a car?
-27.0,37.945945945945944,76,After Intervention,Owns a car?
-55.0,32.21621621621622,77,After Intervention,Owns a car?
-54.0,38.486486486486484,78,After Intervention,Owns a car?
-27.0,28.16216216216216,79,After Intervention,Owns a car?
-55.0,46.486486486486484,80,After Intervention,Owns a car?
-64.0,59.7027027027027,81,After Intervention,Owns a car?
-37.0,35.75675675675676,82,After Intervention,Owns a car?
-43.0,37.351351351351354,83,After Intervention,Owns a car?
-54.0,58.810810810810814,84,After Intervention,Owns a car?
-27.0,28.675675675675677,85,After Intervention,Owns a car?
-20.0,20.216216216216218,86,After Intervention,Owns a car?
-36.0,38.24324324324324,87,After Intervention,Owns a car?
-20.0,28.64864864864865,88,After Intervention,Owns a car?
-34.0,39.32432432432432,89,After Intervention,Owns a car?
-38.0,40.24324324324324,90,After Intervention,Owns a car?
-45.0,45.67567567567568,91,After Intervention,Owns a car?
-44.0,34.027027027027025,92,After Intervention,Owns a car?
-35.0,35.21621621621622,93,After Intervention,Owns a car?
-31.0,35.21621621621622,94,After Intervention,Owns a car?
-60.0,46.972972972972975,95,After Intervention,Owns a car?
-28.0,33.270270270270274,96,After Intervention,Owns a car?
-43.0,32.648648648648646,97,After Intervention,Owns a car?
-36.0,36.729729729729726,98,After Intervention,Owns a car?
-39.0,47.54054054054054,99,After Intervention,Owns a car?
-31.0,34.054054054054056,100,After Intervention,Owns a car?
-52.0,44.108108108108105,101,After Intervention,Owns a car?
-18.0,25.243243243243242,102,After Intervention,Owns a car?
-45.0,38.108108108108105,103,After Intervention,Owns a car?
-44.0,43.972972972972975,104,After Intervention,Owns a car?
-40.0,47.21621621621622,105,After Intervention,Owns a car?
-48.0,40.62162162162162,106,After Intervention,Owns a car?
-25.0,27.45945945945946,107,After Intervention,Owns a car?
-29.0,32.32432432432432,108,After Intervention,Owns a car?
-34.0,43.054054054054056,109,After Intervention,Owns a car?
-29.0,42.108108108108105,110,After Intervention,Owns a car?
-48.0,45.67567567567568,111,After Intervention,Owns a car?
-23.0,33.16216216216216,112,After Intervention,Owns a car?
-38.0,26.18918918918919,113,After Intervention,Owns a car?
-52.0,52.37837837837838,114,After Intervention,Owns a car?
-46.0,41.810810810810814,115,After Intervention,Owns a car?
-44.0,49.45945945945946,116,After Intervention,Owns a car?
-51.0,53.108108108108105,117,After Intervention,Owns a car?
-60.0,47.45945945945946,118,After Intervention,Owns a car?
-34.0,32.21621621621622,119,After Intervention,Owns a car?
-48.0,43.54054054054054,120,After Intervention,Owns a car?
-21.0,21.2972972972973,121,After Intervention,Owns a car?
-42.0,58.21621621621622,122,After Intervention,Owns a car?
-48.0,34.08108108108108,123,After Intervention,Owns a car?
-40.0,43.91891891891892,124,After Intervention,Owns a car?
-41.0,32.86486486486486,125,After Intervention,Owns a car?
-53.0,44.432432432432435,126,After Intervention,Owns a car?
-34.0,27.945945945945947,127,After Intervention,Owns a car?
-57.0,53.0,128,After Intervention,Owns a car?
-46.0,46.513513513513516,129,After Intervention,Owns a car?
-36.0,36.486486486486484,130,After Intervention,Owns a car?
-33.0,24.91891891891892,131,After Intervention,Owns a car?
-50.0,35.0,132,After Intervention,Owns a car?
-47.0,35.86486486486486,133,After Intervention,Owns a car?
-33.0,34.86486486486486,134,After Intervention,Owns a car?
-47.0,35.270270270270274,135,After Intervention,Owns a car?
-31.0,51.83783783783784,136,After Intervention,Owns a car?
-47.0,44.2972972972973,137,After Intervention,Owns a car?
-32.0,52.37837837837838,138,After Intervention,Owns a car?
-40.0,29.62162162162162,139,After Intervention,Owns a car?
-40.0,39.108108108108105,140,After Intervention,Owns a car?
-37.0,32.37837837837838,141,After Intervention,Owns a car?
-37.0,35.810810810810814,142,After Intervention,Owns a car?
-47.0,36.13513513513514,143,After Intervention,Owns a car?
-35.0,34.37837837837838,144,After Intervention,Owns a car?
-44.0,38.7027027027027,145,After Intervention,Owns a car?
-52.0,37.08108108108108,146,After Intervention,Owns a car?
-63.0,41.567567567567565,147,After Intervention,Owns a car?
-50.0,41.13513513513514,148,After Intervention,Owns a car?
-33.0,42.2972972972973,149,After Intervention,Owns a car?
+41.0,41.0,43,Observed,Has Dependable Support?
+15.0,15.0,44,Observed,Has Dependable Support?
+47.0,47.0,45,Observed,Has Dependable Support?
+21.0,21.0,46,Observed,Has Dependable Support?
+37.0,37.0,47,Observed,Has Dependable Support?
+24.0,24.0,48,Observed,Has Dependable Support?
+20.0,20.0,49,Observed,Has Dependable Support?
+19.0,19.0,50,Observed,Has Dependable Support?
+41.0,41.0,51,Observed,Has Dependable Support?
+35.0,35.0,52,Observed,Has Dependable Support?
+28.0,28.0,53,Observed,Has Dependable Support?
+18.0,18.0,54,Observed,Has Dependable Support?
+57.0,57.0,55,Observed,Has Dependable Support?
+19.0,19.0,56,Observed,Has Dependable Support?
+34.0,34.0,57,Observed,Has Dependable Support?
+29.0,29.0,58,Observed,Has Dependable Support?
+38.0,38.0,59,Observed,Has Dependable Support?
+46.0,46.0,60,Observed,Has Dependable Support?
+58.0,58.0,61,Observed,Has Dependable Support?
+60.0,60.0,62,Observed,Has Dependable Support?
+30.0,30.0,63,Observed,Has Dependable Support?
+21.0,21.0,64,Observed,Has Dependable Support?
+40.0,40.0,65,Observed,Has Dependable Support?
+34.0,34.0,66,Observed,Has Dependable Support?
+48.0,48.0,67,Observed,Has Dependable Support?
+40.0,40.0,68,Observed,Has Dependable Support?
+33.0,33.0,69,Observed,Has Dependable Support?
+31.0,31.0,70,Observed,Has Dependable Support?
+37.0,37.0,71,Observed,Has Dependable Support?
+35.0,35.0,72,Observed,Has Dependable Support?
+19.0,19.0,73,Observed,Has Dependable Support?
+46.0,46.0,74,Observed,Has Dependable Support?
+10.0,10.0,75,Observed,Has Dependable Support?
+46.0,46.0,76,Observed,Has Dependable Support?
+63.0,63.0,77,Observed,Has Dependable Support?
+30.0,30.0,78,Observed,Has Dependable Support?
+40.0,44.44500935964197,0,Predicted,Has Dependable Support?
+31.0,27.734351922587216,1,Predicted,Has Dependable Support?
+20.0,21.08894259335436,2,Predicted,Has Dependable Support?
+13.0,24.55300682680362,3,Predicted,Has Dependable Support?
+50.0,35.779957556795786,4,Predicted,Has Dependable Support?
+49.0,47.55773852323351,5,Predicted,Has Dependable Support?
+49.0,33.18807705022875,6,Predicted,Has Dependable Support?
+46.0,34.5311978442663,7,Predicted,Has Dependable Support?
+20.0,25.934544079526784,8,Predicted,Has Dependable Support?
+14.0,20.031391528851426,9,Predicted,Has Dependable Support?
+19.0,35.1656062891357,10,Predicted,Has Dependable Support?
+40.0,52.80489032925375,11,Predicted,Has Dependable Support?
+48.0,47.387320369551496,12,Predicted,Has Dependable Support?
+28.0,30.68373268887975,13,Predicted,Has Dependable Support?
+42.0,39.53667402797747,14,Predicted,Has Dependable Support?
+24.0,39.50311177171791,15,Predicted,Has Dependable Support?
+18.0,22.84966748937337,16,Predicted,Has Dependable Support?
+43.0,36.19833215235782,17,Predicted,Has Dependable Support?
+26.0,28.78342827508156,18,Predicted,Has Dependable Support?
+27.0,28.117201426024952,19,Predicted,Has Dependable Support?
+58.0,42.368187904172046,20,Predicted,Has Dependable Support?
+35.0,35.92535603218012,21,Predicted,Has Dependable Support?
+57.0,51.63142782153479,22,Predicted,Has Dependable Support?
+28.0,45.3007173192145,23,Predicted,Has Dependable Support?
+52.0,45.210069202003595,24,Predicted,Has Dependable Support?
+17.0,25.089403080579554,25,Predicted,Has Dependable Support?
+14.0,22.840679092149685,26,Predicted,Has Dependable Support?
+25.0,30.353407055260558,27,Predicted,Has Dependable Support?
+37.0,36.75182190640661,28,Predicted,Has Dependable Support?
+28.0,37.47064888257616,29,Predicted,Has Dependable Support?
+22.0,24.63294940353764,30,Predicted,Has Dependable Support?
+37.0,37.34574130703373,31,Predicted,Has Dependable Support?
+40.0,29.34261734997029,32,Predicted,Has Dependable Support?
+38.0,40.39887866431237,33,Predicted,Has Dependable Support?
+13.0,21.686168762906732,34,Predicted,Has Dependable Support?
+51.0,46.71556717163979,35,Predicted,Has Dependable Support?
+35.0,36.785357839733024,36,Predicted,Has Dependable Support?
+47.0,41.190434308907435,37,Predicted,Has Dependable Support?
+47.0,33.389972514669736,38,Predicted,Has Dependable Support?
+41.0,27.503639334521694,39,Predicted,Has Dependable Support?
+61.0,56.59987889146258,40,Predicted,Has Dependable Support?
+27.0,33.81755263061387,41,Predicted,Has Dependable Support?
+20.0,23.005774320747587,42,Predicted,Has Dependable Support?
+41.0,51.046095825347166,43,Predicted,Has Dependable Support?
+15.0,24.61576854518031,44,Predicted,Has Dependable Support?
+47.0,33.70084491230634,45,Predicted,Has Dependable Support?
+21.0,27.061319755704783,46,Predicted,Has Dependable Support?
+37.0,29.98313385960445,47,Predicted,Has Dependable Support?
+24.0,38.26633057583836,48,Predicted,Has Dependable Support?
+20.0,23.233824672059967,49,Predicted,Has Dependable Support?
+19.0,23.839330230428065,50,Predicted,Has Dependable Support?
+41.0,40.83239406327641,51,Predicted,Has Dependable Support?
+35.0,27.672998492326226,52,Predicted,Has Dependable Support?
+28.0,39.25139798803359,53,Predicted,Has Dependable Support?
+18.0,28.728975970553513,54,Predicted,Has Dependable Support?
+57.0,48.606022980678205,55,Predicted,Has Dependable Support?
+19.0,27.43999149051218,56,Predicted,Has Dependable Support?
+34.0,32.64796494355318,57,Predicted,Has Dependable Support?
+29.0,37.737812583519194,58,Predicted,Has Dependable Support?
+38.0,34.5249901613538,59,Predicted,Has Dependable Support?
+46.0,43.04435472548574,60,Predicted,Has Dependable Support?
+58.0,51.16046493031394,61,Predicted,Has Dependable Support?
+60.0,38.424751718869366,62,Predicted,Has Dependable Support?
+30.0,31.44806610858661,63,Predicted,Has Dependable Support?
+21.0,22.274784395640015,64,Predicted,Has Dependable Support?
+40.0,33.10706938343254,65,Predicted,Has Dependable Support?
+34.0,33.5189945224202,66,Predicted,Has Dependable Support?
+48.0,43.53335385291853,67,Predicted,Has Dependable Support?
+40.0,29.33404022928244,68,Predicted,Has Dependable Support?
+33.0,30.868902264089453,69,Predicted,Has Dependable Support?
+31.0,48.53578416429454,70,Predicted,Has Dependable Support?
+37.0,46.41184168637613,71,Predicted,Has Dependable Support?
+35.0,35.21154469543675,72,Predicted,Has Dependable Support?
+19.0,22.24984267069829,73,Predicted,Has Dependable Support?
+46.0,47.6017960173195,74,Predicted,Has Dependable Support?
+10.0,18.07852213146331,75,Predicted,Has Dependable Support?
+46.0,33.55392156862745,76,Predicted,Has Dependable Support?
+63.0,39.752228163992875,77,Predicted,Has Dependable Support?
+30.0,28.137187402146587,78,Predicted,Has Dependable Support?
+31.0,29.77731092436975,0,After Intervention,Owns a car?
+33.0,31.38086875148352,1,After Intervention,Owns a car?
+20.0,22.139887875048306,2,After Intervention,Owns a car?
+48.0,36.17530558531502,3,After Intervention,Owns a car?
+15.0,27.905244794020643,4,After Intervention,Owns a car?
+30.0,39.62297923229953,5,After Intervention,Owns a car?
+23.0,51.849278519006404,6,After Intervention,Owns a car?
+36.0,34.964014327506966,7,After Intervention,Owns a car?
+13.0,24.919673493470288,8,After Intervention,Owns a car?
+40.0,40.02285579352234,9,After Intervention,Owns a car?
+50.0,37.66317004074356,10,After Intervention,Owns a car?
+47.0,54.41163348517349,11,After Intervention,Owns a car?
+20.0,26.709119014395835,12,After Intervention,Owns a car?
+41.0,47.19514180894362,13,After Intervention,Owns a car?
+44.0,45.02566030811962,14,After Intervention,Owns a car?
+48.0,48.864628453458835,15,After Intervention,Owns a car?
+50.0,51.058653940938775,16,After Intervention,Owns a car?
+46.0,47.11984906323583,17,After Intervention,Owns a car?
+39.0,41.6405802437768,18,After Intervention,Owns a car?
+37.0,43.63656922376321,19,After Intervention,Owns a car?
+14.0,20.475548337580427,20,After Intervention,Owns a car?
+19.0,44.69889261065732,21,After Intervention,Owns a car?
+47.0,47.244084114094846,22,After Intervention,Owns a car?
+43.0,46.50054114006497,23,After Intervention,Owns a car?
+20.0,39.00076342809919,24,After Intervention,Owns a car?
+37.0,46.5466568379261,25,After Intervention,Owns a car?
+54.0,44.95032084570625,26,After Intervention,Owns a car?
+45.0,48.24337821808022,27,After Intervention,Owns a car?
+31.0,41.554117807870504,28,After Intervention,Owns a car?
+22.0,49.05096037049389,29,After Intervention,Owns a car?
+50.0,48.551138233035296,30,After Intervention,Owns a car?
+24.0,43.569368233811865,31,After Intervention,Owns a car?
+58.0,53.224746277355806,32,After Intervention,Owns a car?
+47.0,51.050640167938006,33,After Intervention,Owns a car?
+56.0,40.92573708201607,34,After Intervention,Owns a car?
+27.0,32.065508606494085,35,After Intervention,Owns a car?
+24.0,47.41713215722245,36,After Intervention,Owns a car?
+27.0,47.20029779511241,37,After Intervention,Owns a car?
+51.0,48.643853154973314,38,After Intervention,Owns a car?
+43.0,37.11365109554054,39,After Intervention,Owns a car?
+26.0,29.62480922528604,40,After Intervention,Owns a car?
+27.0,30.449049316696378,41,After Intervention,Owns a car?
+48.0,47.54050647801744,42,After Intervention,Owns a car?
+52.0,49.00689734869437,43,After Intervention,Owns a car?
+38.0,47.76721406457156,44,After Intervention,Owns a car?
+37.0,40.120720068896134,45,After Intervention,Owns a car?
+56.0,49.01172661563233,46,After Intervention,Owns a car?
+35.0,36.83195848029326,47,After Intervention,Owns a car?
+53.0,40.43579361465911,48,After Intervention,Owns a car?
+32.0,32.53483975166731,49,After Intervention,Owns a car?
+46.0,35.35973177149648,50,After Intervention,Owns a car?
+45.0,35.89795801012252,51,After Intervention,Owns a car?
+50.0,50.04401391430518,52,After Intervention,Owns a car?
+46.0,45.08476061594314,53,After Intervention,Owns a car?
+41.0,42.88011401501859,54,After Intervention,Owns a car?
+17.0,26.761120252296728,55,After Intervention,Owns a car?
+38.0,46.599543515687536,56,After Intervention,Owns a car?
+35.0,35.757436186711374,57,After Intervention,Owns a car?
+38.0,37.96336095206093,58,After Intervention,Owns a car?
+14.0,23.529801407742582,59,After Intervention,Owns a car?
+39.0,45.19837608423513,60,After Intervention,Owns a car?
+63.0,46.9183121698015,61,After Intervention,Owns a car?
+17.0,43.071488169561,62,After Intervention,Owns a car?
+40.0,46.82105792257771,63,After Intervention,Owns a car?
+33.0,39.62269563687227,64,After Intervention,Owns a car?
+22.0,24.94451039156922,65,After Intervention,Owns a car?
+37.0,39.38945674106016,66,After Intervention,Owns a car?
+56.0,47.81251509085748,67,After Intervention,Owns a car?
+49.0,37.49937406309486,68,After Intervention,Owns a car?
+25.0,33.30121835411896,69,After Intervention,Owns a car?
+43.0,47.46220137189311,70,After Intervention,Owns a car?
+36.0,39.82116851483879,71,After Intervention,Owns a car?
+29.0,44.48426048146299,72,After Intervention,Owns a car?
+48.0,46.68016052625397,73,After Intervention,Owns a car?
+54.0,54.08112426374408,74,After Intervention,Owns a car?
+33.0,34.446913974943016,75,After Intervention,Owns a car?
+34.0,40.287422811394194,76,After Intervention,Owns a car?
+37.0,35.74316528757898,77,After Intervention,Owns a car?
+53.0,49.402868346892674,78,After Intervention,Owns a car?
+44.0,44.655273159789715,79,After Intervention,Owns a car?
+52.0,49.49826657773232,80,After Intervention,Owns a car?
+43.0,49.78121292135871,81,After Intervention,Owns a car?
+13.0,22.521368352384396,82,After Intervention,Owns a car?
+51.0,46.757941139458836,83,After Intervention,Owns a car?
+18.0,25.77605042016807,84,After Intervention,Owns a car?
+27.0,45.58593479387639,85,After Intervention,Owns a car?
+55.0,39.11673302757505,86,After Intervention,Owns a car?
+54.0,40.26918714804857,87,After Intervention,Owns a car?
+27.0,31.75674855942236,88,After Intervention,Owns a car?
+40.0,33.69383351093991,89,After Intervention,Owns a car?
+55.0,48.591756454197856,90,After Intervention,Owns a car?
+64.0,57.206873373612964,91,After Intervention,Owns a car?
+34.0,35.920929990205025,92,After Intervention,Owns a car?
+37.0,38.03860307087772,93,After Intervention,Owns a car?
+54.0,58.042034597340695,94,After Intervention,Owns a car?
+27.0,35.17114745292877,95,After Intervention,Owns a car?
+20.0,23.488766002268676,96,After Intervention,Owns a car?
+20.0,34.45307783504377,97,After Intervention,Owns a car?
+34.0,42.098325017193325,98,After Intervention,Owns a car?
+47.0,37.35543334739412,99,After Intervention,Owns a car?
+21.0,27.944478783248837,100,After Intervention,Owns a car?
+38.0,41.19679476104599,101,After Intervention,Owns a car?
+24.0,39.71495336628396,102,After Intervention,Owns a car?
+45.0,49.668943374758065,103,After Intervention,Owns a car?
+20.0,24.023851950188853,104,After Intervention,Owns a car?
+19.0,25.417730736636056,105,After Intervention,Owns a car?
+35.0,36.34204614137777,106,After Intervention,Owns a car?
+43.0,35.407487662911066,107,After Intervention,Owns a car?
+35.0,29.847864802486647,108,After Intervention,Owns a car?
+31.0,36.97721973082436,109,After Intervention,Owns a car?
+60.0,47.12560084554451,110,After Intervention,Owns a car?
+28.0,41.43058223913593,111,After Intervention,Owns a car?
+43.0,39.460316456941996,112,After Intervention,Owns a car?
+20.0,23.4690644619789,113,After Intervention,Owns a car?
+36.0,37.85253981451135,114,After Intervention,Owns a car?
+44.0,35.40275215979526,115,After Intervention,Owns a car?
+39.0,49.89935720900416,116,After Intervention,Owns a car?
+31.0,40.22423795002323,117,After Intervention,Owns a car?
+52.0,44.92505407054667,118,After Intervention,Owns a car?
+18.0,29.96589346482395,119,After Intervention,Owns a car?
+45.0,43.72200644411286,120,After Intervention,Owns a car?
+44.0,46.97674985873103,121,After Intervention,Owns a car?
+40.0,48.3023441696183,122,After Intervention,Owns a car?
+34.0,29.613949449243567,123,After Intervention,Owns a car?
+28.0,42.58941911459419,124,After Intervention,Owns a car?
+48.0,47.947098576339506,125,After Intervention,Owns a car?
+25.0,34.681298143907505,126,After Intervention,Owns a car?
+27.0,32.065508606494085,127,After Intervention,Owns a car?
+29.0,38.14597707590729,128,After Intervention,Owns a car?
+34.0,42.590467509549704,129,After Intervention,Owns a car?
+29.0,45.22978141488891,130,After Intervention,Owns a car?
+48.0,48.47987217514887,131,After Intervention,Owns a car?
+38.0,37.23485362086004,132,After Intervention,Owns a car?
+52.0,50.03785473751783,133,After Intervention,Owns a car?
+46.0,44.66133213487212,134,After Intervention,Owns a car?
+44.0,48.15853303421268,135,After Intervention,Owns a car?
+51.0,53.759188146598675,136,After Intervention,Owns a car?
+60.0,48.75268408062526,137,After Intervention,Owns a car?
+34.0,35.53657912864326,138,After Intervention,Owns a car?
+48.0,47.855571752848476,139,After Intervention,Owns a car?
+30.0,31.84937953075564,140,After Intervention,Owns a car?
+22.0,34.53392279143021,141,After Intervention,Owns a car?
+21.0,23.399927538296524,142,After Intervention,Owns a car?
+42.0,57.13394512498788,143,After Intervention,Owns a car?
+48.0,38.00295705144883,144,After Intervention,Owns a car?
+24.0,31.639988102459228,145,After Intervention,Owns a car?
+40.0,48.94780592719379,146,After Intervention,Owns a car?
+41.0,37.05862141412287,147,After Intervention,Owns a car?
+53.0,48.04895617627438,148,After Intervention,Owns a car?
+34.0,35.43417544173847,149,After Intervention,Owns a car?
+18.0,33.5887793593274,150,After Intervention,Owns a car?
+57.0,52.17419247889729,151,After Intervention,Owns a car?
+39.0,42.46041458534568,152,After Intervention,Owns a car?
+46.0,47.14152447535955,153,After Intervention,Owns a car?
+36.0,39.35349036778669,154,After Intervention,Owns a car?
+33.0,31.62930878371353,155,After Intervention,Owns a car?
+33.0,36.656737817973216,156,After Intervention,Owns a car?
+47.0,39.630066662161475,157,After Intervention,Owns a car?
+31.0,50.62263141342088,158,After Intervention,Owns a car?
+47.0,46.84696949877374,159,After Intervention,Owns a car?
+22.0,31.055517368181018,160,After Intervention,Owns a car?
+32.0,51.19549451279638,161,After Intervention,Owns a car?
+53.0,48.128329111835555,162,After Intervention,Owns a car?
+40.0,35.58645032550186,163,After Intervention,Owns a car?
+34.0,40.8344275398253,164,After Intervention,Owns a car?
+40.0,44.30944405587669,165,After Intervention,Owns a car?
+37.0,38.0558627219708,166,After Intervention,Owns a car?
+47.0,38.479459252476396,167,After Intervention,Owns a car?
+19.0,24.386310288048264,168,After Intervention,Owns a car?
+35.0,36.44227916107239,169,After Intervention,Owns a car?
+44.0,39.98309502906849,170,After Intervention,Owns a car?
+10.0,18.185474003121065,171,After Intervention,Owns a car?
+27.0,32.065508606494085,172,After Intervention,Owns a car?
+63.0,48.887904633492866,173,After Intervention,Owns a car?
+50.0,45.23054863590322,174,After Intervention,Owns a car?
+33.0,41.6127115732686,175,After Intervention,Owns a car?
 31.0,31.0,0,Observed,Owns a car?
-48.0,48.0,1,Observed,Owns a car?
-30.0,30.0,2,Observed,Owns a car?
-23.0,23.0,3,Observed,Owns a car?
-13.0,13.0,4,Observed,Owns a car?
-40.0,40.0,5,Observed,Owns a car?
-50.0,50.0,6,Observed,Owns a car?
-47.0,47.0,7,Observed,Owns a car?
-41.0,41.0,8,Observed,Owns a car?
-44.0,44.0,9,Observed,Owns a car?
-54.0,54.0,10,Observed,Owns a car?
-34.0,34.0,11,Observed,Owns a car?
-48.0,48.0,12,Observed,Owns a car?
-50.0,50.0,13,Observed,Owns a car?
-46.0,46.0,14,Observed,Owns a car?
-39.0,39.0,15,Observed,Owns a car?
-37.0,37.0,16,Observed,Owns a car?
-19.0,19.0,17,Observed,Owns a car?
-47.0,47.0,18,Observed,Owns a car?
-43.0,43.0,19,Observed,Owns a car?
-37.0,37.0,20,Observed,Owns a car?
-54.0,54.0,21,Observed,Owns a car?
-45.0,45.0,22,Observed,Owns a car?
-31.0,31.0,23,Observed,Owns a car?
-22.0,22.0,24,Observed,Owns a car?
-50.0,50.0,25,Observed,Owns a car?
-24.0,24.0,26,Observed,Owns a car?
-58.0,58.0,27,Observed,Owns a car?
-47.0,47.0,28,Observed,Owns a car?
-56.0,56.0,29,Observed,Owns a car?
-24.0,24.0,30,Observed,Owns a car?
-56.0,56.0,31,Observed,Owns a car?
-27.0,27.0,32,Observed,Owns a car?
-51.0,51.0,33,Observed,Owns a car?
-43.0,43.0,34,Observed,Owns a car?
-26.0,26.0,35,Observed,Owns a car?
-27.0,27.0,36,Observed,Owns a car?
-48.0,48.0,37,Observed,Owns a car?
-52.0,52.0,38,Observed,Owns a car?
-38.0,38.0,39,Observed,Owns a car?
-37.0,37.0,40,Observed,Owns a car?
-56.0,56.0,41,Observed,Owns a car?
-35.0,35.0,42,Observed,Owns a car?
-53.0,53.0,43,Observed,Owns a car?
-32.0,32.0,44,Observed,Owns a car?
-46.0,46.0,45,Observed,Owns a car?
-50.0,50.0,46,Observed,Owns a car?
-46.0,46.0,47,Observed,Owns a car?
-46.0,46.0,48,Observed,Owns a car?
-17.0,17.0,49,Observed,Owns a car?
-38.0,38.0,50,Observed,Owns a car?
-35.0,35.0,51,Observed,Owns a car?
-38.0,38.0,52,Observed,Owns a car?
-39.0,39.0,53,Observed,Owns a car?
-63.0,63.0,54,Observed,Owns a car?
+33.0,33.0,1,Observed,Owns a car?
+20.0,20.0,2,Observed,Owns a car?
+48.0,48.0,3,Observed,Owns a car?
+15.0,15.0,4,Observed,Owns a car?
+30.0,30.0,5,Observed,Owns a car?
+23.0,23.0,6,Observed,Owns a car?
+36.0,36.0,7,Observed,Owns a car?
+13.0,13.0,8,Observed,Owns a car?
+40.0,40.0,9,Observed,Owns a car?
+50.0,50.0,10,Observed,Owns a car?
+47.0,47.0,11,Observed,Owns a car?
+20.0,20.0,12,Observed,Owns a car?
+41.0,41.0,13,Observed,Owns a car?
+44.0,44.0,14,Observed,Owns a car?
+48.0,48.0,15,Observed,Owns a car?
+50.0,50.0,16,Observed,Owns a car?
+46.0,46.0,17,Observed,Owns a car?
+39.0,39.0,18,Observed,Owns a car?
+37.0,37.0,19,Observed,Owns a car?
+14.0,14.0,20,Observed,Owns a car?
+19.0,19.0,21,Observed,Owns a car?
+47.0,47.0,22,Observed,Owns a car?
+43.0,43.0,23,Observed,Owns a car?
+20.0,20.0,24,Observed,Owns a car?
+37.0,37.0,25,Observed,Owns a car?
+54.0,54.0,26,Observed,Owns a car?
+45.0,45.0,27,Observed,Owns a car?
+31.0,31.0,28,Observed,Owns a car?
+22.0,22.0,29,Observed,Owns a car?
+50.0,50.0,30,Observed,Owns a car?
+24.0,24.0,31,Observed,Owns a car?
+58.0,58.0,32,Observed,Owns a car?
+47.0,47.0,33,Observed,Owns a car?
+56.0,56.0,34,Observed,Owns a car?
+27.0,27.0,35,Observed,Owns a car?
+24.0,24.0,36,Observed,Owns a car?
+27.0,27.0,37,Observed,Owns a car?
+51.0,51.0,38,Observed,Owns a car?
+43.0,43.0,39,Observed,Owns a car?
+26.0,26.0,40,Observed,Owns a car?
+27.0,27.0,41,Observed,Owns a car?
+48.0,48.0,42,Observed,Owns a car?
+52.0,52.0,43,Observed,Owns a car?
+38.0,38.0,44,Observed,Owns a car?
+37.0,37.0,45,Observed,Owns a car?
+56.0,56.0,46,Observed,Owns a car?
+35.0,35.0,47,Observed,Owns a car?
+53.0,53.0,48,Observed,Owns a car?
+32.0,32.0,49,Observed,Owns a car?
+46.0,46.0,50,Observed,Owns a car?
+45.0,45.0,51,Observed,Owns a car?
+50.0,50.0,52,Observed,Owns a car?
+46.0,46.0,53,Observed,Owns a car?
+41.0,41.0,54,Observed,Owns a car?
 17.0,17.0,55,Observed,Owns a car?
-40.0,40.0,56,Observed,Owns a car?
-33.0,33.0,57,Observed,Owns a car?
-22.0,22.0,58,Observed,Owns a car?
-37.0,37.0,59,Observed,Owns a car?
-56.0,56.0,60,Observed,Owns a car?
-49.0,49.0,61,Observed,Owns a car?
-47.0,47.0,62,Observed,Owns a car?
-43.0,43.0,63,Observed,Owns a car?
-36.0,36.0,64,Observed,Owns a car?
-29.0,29.0,65,Observed,Owns a car?
-48.0,48.0,66,Observed,Owns a car?
-54.0,54.0,67,Observed,Owns a car?
-33.0,33.0,68,Observed,Owns a car?
-34.0,34.0,69,Observed,Owns a car?
-37.0,37.0,70,Observed,Owns a car?
-53.0,53.0,71,Observed,Owns a car?
-44.0,44.0,72,Observed,Owns a car?
-52.0,52.0,73,Observed,Owns a car?
-43.0,43.0,74,Observed,Owns a car?
-51.0,51.0,75,Observed,Owns a car?
-27.0,27.0,76,Observed,Owns a car?
-55.0,55.0,77,Observed,Owns a car?
-54.0,54.0,78,Observed,Owns a car?
-27.0,27.0,79,Observed,Owns a car?
-55.0,55.0,80,Observed,Owns a car?
-64.0,64.0,81,Observed,Owns a car?
-37.0,37.0,82,Observed,Owns a car?
-43.0,43.0,83,Observed,Owns a car?
-54.0,54.0,84,Observed,Owns a car?
+38.0,38.0,56,Observed,Owns a car?
+35.0,35.0,57,Observed,Owns a car?
+38.0,38.0,58,Observed,Owns a car?
+14.0,14.0,59,Observed,Owns a car?
+39.0,39.0,60,Observed,Owns a car?
+63.0,63.0,61,Observed,Owns a car?
+17.0,17.0,62,Observed,Owns a car?
+40.0,40.0,63,Observed,Owns a car?
+33.0,33.0,64,Observed,Owns a car?
+22.0,22.0,65,Observed,Owns a car?
+37.0,37.0,66,Observed,Owns a car?
+56.0,56.0,67,Observed,Owns a car?
+49.0,49.0,68,Observed,Owns a car?
+25.0,25.0,69,Observed,Owns a car?
+43.0,43.0,70,Observed,Owns a car?
+36.0,36.0,71,Observed,Owns a car?
+29.0,29.0,72,Observed,Owns a car?
+48.0,48.0,73,Observed,Owns a car?
+54.0,54.0,74,Observed,Owns a car?
+33.0,33.0,75,Observed,Owns a car?
+34.0,34.0,76,Observed,Owns a car?
+37.0,37.0,77,Observed,Owns a car?
+53.0,53.0,78,Observed,Owns a car?
+44.0,44.0,79,Observed,Owns a car?
+52.0,52.0,80,Observed,Owns a car?
+43.0,43.0,81,Observed,Owns a car?
+13.0,13.0,82,Observed,Owns a car?
+51.0,51.0,83,Observed,Owns a car?
+18.0,18.0,84,Observed,Owns a car?
 27.0,27.0,85,Observed,Owns a car?
-20.0,20.0,86,Observed,Owns a car?
-36.0,36.0,87,Observed,Owns a car?
-20.0,20.0,88,Observed,Owns a car?
-34.0,34.0,89,Observed,Owns a car?
-38.0,38.0,90,Observed,Owns a car?
-45.0,45.0,91,Observed,Owns a car?
-44.0,44.0,92,Observed,Owns a car?
-35.0,35.0,93,Observed,Owns a car?
-31.0,31.0,94,Observed,Owns a car?
-60.0,60.0,95,Observed,Owns a car?
-28.0,28.0,96,Observed,Owns a car?
-43.0,43.0,97,Observed,Owns a car?
-36.0,36.0,98,Observed,Owns a car?
-39.0,39.0,99,Observed,Owns a car?
-31.0,31.0,100,Observed,Owns a car?
-52.0,52.0,101,Observed,Owns a car?
-18.0,18.0,102,Observed,Owns a car?
+55.0,55.0,86,Observed,Owns a car?
+54.0,54.0,87,Observed,Owns a car?
+27.0,27.0,88,Observed,Owns a car?
+40.0,40.0,89,Observed,Owns a car?
+55.0,55.0,90,Observed,Owns a car?
+64.0,64.0,91,Observed,Owns a car?
+34.0,34.0,92,Observed,Owns a car?
+37.0,37.0,93,Observed,Owns a car?
+54.0,54.0,94,Observed,Owns a car?
+27.0,27.0,95,Observed,Owns a car?
+20.0,20.0,96,Observed,Owns a car?
+20.0,20.0,97,Observed,Owns a car?
+34.0,34.0,98,Observed,Owns a car?
+47.0,47.0,99,Observed,Owns a car?
+21.0,21.0,100,Observed,Owns a car?
+38.0,38.0,101,Observed,Owns a car?
+24.0,24.0,102,Observed,Owns a car?
 45.0,45.0,103,Observed,Owns a car?
-44.0,44.0,104,Observed,Owns a car?
-40.0,40.0,105,Observed,Owns a car?
-48.0,48.0,106,Observed,Owns a car?
-25.0,25.0,107,Observed,Owns a car?
-29.0,29.0,108,Observed,Owns a car?
-34.0,34.0,109,Observed,Owns a car?
-29.0,29.0,110,Observed,Owns a car?
-48.0,48.0,111,Observed,Owns a car?
-23.0,23.0,112,Observed,Owns a car?
-38.0,38.0,113,Observed,Owns a car?
-52.0,52.0,114,Observed,Owns a car?
-46.0,46.0,115,Observed,Owns a car?
-44.0,44.0,116,Observed,Owns a car?
-51.0,51.0,117,Observed,Owns a car?
-60.0,60.0,118,Observed,Owns a car?
-34.0,34.0,119,Observed,Owns a car?
-48.0,48.0,120,Observed,Owns a car?
-21.0,21.0,121,Observed,Owns a car?
-42.0,42.0,122,Observed,Owns a car?
-48.0,48.0,123,Observed,Owns a car?
-40.0,40.0,124,Observed,Owns a car?
-41.0,41.0,125,Observed,Owns a car?
-53.0,53.0,126,Observed,Owns a car?
-34.0,34.0,127,Observed,Owns a car?
-57.0,57.0,128,Observed,Owns a car?
-46.0,46.0,129,Observed,Owns a car?
-36.0,36.0,130,Observed,Owns a car?
-33.0,33.0,131,Observed,Owns a car?
-50.0,50.0,132,Observed,Owns a car?
-47.0,47.0,133,Observed,Owns a car?
-33.0,33.0,134,Observed,Owns a car?
-47.0,47.0,135,Observed,Owns a car?
-31.0,31.0,136,Observed,Owns a car?
-47.0,47.0,137,Observed,Owns a car?
-32.0,32.0,138,Observed,Owns a car?
-40.0,40.0,139,Observed,Owns a car?
-40.0,40.0,140,Observed,Owns a car?
-37.0,37.0,141,Observed,Owns a car?
-37.0,37.0,142,Observed,Owns a car?
-47.0,47.0,143,Observed,Owns a car?
-35.0,35.0,144,Observed,Owns a car?
-44.0,44.0,145,Observed,Owns a car?
-52.0,52.0,146,Observed,Owns a car?
-63.0,63.0,147,Observed,Owns a car?
-50.0,50.0,148,Observed,Owns a car?
-33.0,33.0,149,Observed,Owns a car?
-31.0,28.35135135135135,0,Predicted,Owns a car?
-48.0,31.16216216216216,1,Predicted,Owns a car?
-30.0,29.10810810810811,2,Predicted,Owns a car?
-23.0,43.027027027027025,3,Predicted,Owns a car?
-13.0,19.2972972972973,4,Predicted,Owns a car?
-40.0,29.243243243243242,5,Predicted,Owns a car?
-50.0,33.027027027027025,6,Predicted,Owns a car?
-47.0,42.62162162162162,7,Predicted,Owns a car?
-41.0,47.45945945945946,8,Predicted,Owns a car?
-44.0,38.027027027027025,9,Predicted,Owns a car?
-54.0,34.891891891891895,10,Predicted,Owns a car?
-34.0,35.13513513513514,11,Predicted,Owns a car?
-48.0,45.7027027027027,12,Predicted,Owns a car?
-50.0,45.08108108108108,13,Predicted,Owns a car?
-46.0,38.83783783783784,14,Predicted,Owns a car?
-39.0,38.972972972972975,15,Predicted,Owns a car?
-37.0,36.567567567567565,16,Predicted,Owns a car?
-19.0,29.783783783783782,17,Predicted,Owns a car?
-47.0,34.7027027027027,18,Predicted,Owns a car?
-43.0,42.83783783783784,19,Predicted,Owns a car?
-37.0,46.45945945945946,20,Predicted,Owns a car?
-54.0,38.2972972972973,21,Predicted,Owns a car?
-45.0,44.62162162162162,22,Predicted,Owns a car?
-31.0,36.0,23,Predicted,Owns a car?
-22.0,38.972972972972975,24,Predicted,Owns a car?
-50.0,41.4054054054054,25,Predicted,Owns a car?
-24.0,33.513513513513516,26,Predicted,Owns a car?
-58.0,49.486486486486484,27,Predicted,Owns a car?
-47.0,49.16216216216216,28,Predicted,Owns a car?
-56.0,37.351351351351354,29,Predicted,Owns a car?
-24.0,34.21621621621622,30,Predicted,Owns a car?
-56.0,42.486486486486484,31,Predicted,Owns a car?
-27.0,36.75675675675676,32,Predicted,Owns a car?
-51.0,44.54054054054054,33,Predicted,Owns a car?
-43.0,25.89189189189189,34,Predicted,Owns a car?
-26.0,22.2972972972973,35,Predicted,Owns a car?
-27.0,20.45945945945946,36,Predicted,Owns a car?
-48.0,42.08108108108108,37,Predicted,Owns a car?
-52.0,47.351351351351354,38,Predicted,Owns a car?
-38.0,43.62162162162162,39,Predicted,Owns a car?
-37.0,31.405405405405407,40,Predicted,Owns a car?
-56.0,39.37837837837838,41,Predicted,Owns a car?
-35.0,28.756756756756758,42,Predicted,Owns a car?
-53.0,39.2972972972973,43,Predicted,Owns a car?
-32.0,26.594594594594593,44,Predicted,Owns a car?
-46.0,25.945945945945947,45,Predicted,Owns a car?
-50.0,46.891891891891895,46,Predicted,Owns a car?
-46.0,35.4054054054054,47,Predicted,Owns a car?
-46.0,36.891891891891895,48,Predicted,Owns a car?
-17.0,21.513513513513512,49,Predicted,Owns a car?
-38.0,40.67567567567568,50,Predicted,Owns a car?
-35.0,30.2972972972973,51,Predicted,Owns a car?
-38.0,35.486486486486484,52,Predicted,Owns a car?
-39.0,42.810810810810814,53,Predicted,Owns a car?
-63.0,42.5945945945946,54,Predicted,Owns a car?
-17.0,33.13513513513514,55,Predicted,Owns a car?
-40.0,41.486486486486484,56,Predicted,Owns a car?
-33.0,30.64864864864865,57,Predicted,Owns a car?
-22.0,23.135135135135137,58,Predicted,Owns a car?
-37.0,34.4054054054054,59,Predicted,Owns a car?
-56.0,42.0,60,Predicted,Owns a car?
-49.0,33.78378378378378,61,Predicted,Owns a car?
-47.0,37.5945945945946,62,Predicted,Owns a car?
-43.0,43.972972972972975,63,Predicted,Owns a car?
-36.0,33.45945945945946,64,Predicted,Owns a car?
-29.0,37.24324324324324,65,Predicted,Owns a car?
-48.0,40.54054054054054,66,Predicted,Owns a car?
-54.0,44.108108108108105,67,Predicted,Owns a car?
-33.0,32.729729729729726,68,Predicted,Owns a car?
-34.0,33.24324324324324,69,Predicted,Owns a car?
-37.0,31.675675675675677,70,Predicted,Owns a car?
-53.0,45.54054054054054,71,Predicted,Owns a car?
-44.0,40.45945945945946,72,Predicted,Owns a car?
-52.0,45.027027027027025,73,Predicted,Owns a car?
-43.0,40.24324324324324,74,Predicted,Owns a car?
-51.0,42.2972972972973,75,Predicted,Owns a car?
-27.0,36.054054054054056,76,Predicted,Owns a car?
-55.0,31.72972972972973,77,Predicted,Owns a car?
-54.0,37.16216216216216,78,Predicted,Owns a car?
-27.0,27.945945945945947,79,Predicted,Owns a car?
-55.0,44.5945945945946,80,Predicted,Owns a car?
-64.0,52.270270270270274,81,Predicted,Owns a car?
-37.0,33.83783783783784,82,Predicted,Owns a car?
-43.0,36.16216216216216,83,Predicted,Owns a car?
-54.0,50.351351351351354,84,Predicted,Owns a car?
-27.0,27.83783783783784,85,Predicted,Owns a car?
-20.0,19.243243243243242,86,Predicted,Owns a car?
-36.0,36.62162162162162,87,Predicted,Owns a car?
-20.0,27.7027027027027,88,Predicted,Owns a car?
-34.0,38.351351351351354,89,Predicted,Owns a car?
-38.0,39.189189189189186,90,Predicted,Owns a car?
-45.0,42.891891891891895,91,Predicted,Owns a car?
-44.0,33.75675675675676,92,Predicted,Owns a car?
-35.0,33.91891891891892,93,Predicted,Owns a car?
-31.0,33.91891891891892,94,Predicted,Owns a car?
-60.0,45.648648648648646,95,Predicted,Owns a car?
-28.0,31.43243243243243,96,Predicted,Owns a car?
-43.0,32.32432432432432,97,Predicted,Owns a car?
-36.0,35.32432432432432,98,Predicted,Owns a car?
-39.0,45.45945945945946,99,Predicted,Owns a car?
-31.0,33.513513513513516,100,Predicted,Owns a car?
-52.0,41.270270270270274,101,Predicted,Owns a car?
-18.0,24.37837837837838,102,Predicted,Owns a car?
-45.0,37.945945945945944,103,Predicted,Owns a car?
-44.0,41.7027027027027,104,Predicted,Owns a car?
-40.0,43.32432432432432,105,Predicted,Owns a car?
-48.0,39.351351351351354,106,Predicted,Owns a car?
-25.0,27.324324324324323,107,Predicted,Owns a car?
-29.0,31.756756756756758,108,Predicted,Owns a car?
-34.0,42.4054054054054,109,Predicted,Owns a car?
-29.0,37.37837837837838,110,Predicted,Owns a car?
-48.0,43.270270270270274,111,Predicted,Owns a car?
-23.0,33.054054054054056,112,Predicted,Owns a car?
-38.0,25.243243243243242,113,Predicted,Owns a car?
-52.0,48.24324324324324,114,Predicted,Owns a car?
-46.0,41.67567567567568,115,Predicted,Owns a car?
-44.0,46.2972972972973,116,Predicted,Owns a car?
-51.0,44.83783783783784,117,Predicted,Owns a car?
-60.0,45.810810810810814,118,Predicted,Owns a car?
-34.0,30.64864864864865,119,Predicted,Owns a car?
-48.0,39.270270270270274,120,Predicted,Owns a car?
-21.0,21.243243243243242,121,Predicted,Owns a car?
-42.0,45.810810810810814,122,Predicted,Owns a car?
-48.0,32.189189189189186,123,Predicted,Owns a car?
-40.0,40.54054054054054,124,Predicted,Owns a car?
-41.0,31.945945945945947,125,Predicted,Owns a car?
-53.0,42.83783783783784,126,Predicted,Owns a car?
-34.0,27.405405405405407,127,Predicted,Owns a car?
-57.0,41.945945945945944,128,Predicted,Owns a car?
-46.0,43.2972972972973,129,Predicted,Owns a car?
-36.0,35.567567567567565,130,Predicted,Owns a car?
-33.0,24.513513513513512,131,Predicted,Owns a car?
-50.0,33.86486486486486,132,Predicted,Owns a car?
-47.0,35.24324324324324,133,Predicted,Owns a car?
-33.0,33.351351351351354,134,Predicted,Owns a car?
-47.0,33.567567567567565,135,Predicted,Owns a car?
-31.0,44.67567567567568,136,Predicted,Owns a car?
-47.0,40.75675675675676,137,Predicted,Owns a car?
-32.0,43.78378378378378,138,Predicted,Owns a car?
-40.0,29.513513513513512,139,Predicted,Owns a car?
-40.0,38.567567567567565,140,Predicted,Owns a car?
-37.0,31.756756756756758,141,Predicted,Owns a car?
-37.0,34.21621621621622,142,Predicted,Owns a car?
-47.0,34.13513513513514,143,Predicted,Owns a car?
-35.0,32.67567567567568,144,Predicted,Owns a car?
-44.0,36.45945945945946,145,Predicted,Owns a car?
-52.0,36.108108108108105,146,Predicted,Owns a car?
-63.0,40.0,147,Predicted,Owns a car?
-50.0,39.91891891891892,148,Predicted,Owns a car?
-33.0,41.21621621621622,149,Predicted,Owns a car?
+20.0,20.0,104,Observed,Owns a car?
+19.0,19.0,105,Observed,Owns a car?
+35.0,35.0,106,Observed,Owns a car?
+43.0,43.0,107,Observed,Owns a car?
+35.0,35.0,108,Observed,Owns a car?
+31.0,31.0,109,Observed,Owns a car?
+60.0,60.0,110,Observed,Owns a car?
+28.0,28.0,111,Observed,Owns a car?
+43.0,43.0,112,Observed,Owns a car?
+20.0,20.0,113,Observed,Owns a car?
+36.0,36.0,114,Observed,Owns a car?
+44.0,44.0,115,Observed,Owns a car?
+39.0,39.0,116,Observed,Owns a car?
+31.0,31.0,117,Observed,Owns a car?
+52.0,52.0,118,Observed,Owns a car?
+18.0,18.0,119,Observed,Owns a car?
+45.0,45.0,120,Observed,Owns a car?
+44.0,44.0,121,Observed,Owns a car?
+40.0,40.0,122,Observed,Owns a car?
+34.0,34.0,123,Observed,Owns a car?
+28.0,28.0,124,Observed,Owns a car?
+48.0,48.0,125,Observed,Owns a car?
+25.0,25.0,126,Observed,Owns a car?
+27.0,27.0,127,Observed,Owns a car?
+29.0,29.0,128,Observed,Owns a car?
+34.0,34.0,129,Observed,Owns a car?
+29.0,29.0,130,Observed,Owns a car?
+48.0,48.0,131,Observed,Owns a car?
+38.0,38.0,132,Observed,Owns a car?
+52.0,52.0,133,Observed,Owns a car?
+46.0,46.0,134,Observed,Owns a car?
+44.0,44.0,135,Observed,Owns a car?
+51.0,51.0,136,Observed,Owns a car?
+60.0,60.0,137,Observed,Owns a car?
+34.0,34.0,138,Observed,Owns a car?
+48.0,48.0,139,Observed,Owns a car?
+30.0,30.0,140,Observed,Owns a car?
+22.0,22.0,141,Observed,Owns a car?
+21.0,21.0,142,Observed,Owns a car?
+42.0,42.0,143,Observed,Owns a car?
+48.0,48.0,144,Observed,Owns a car?
+24.0,24.0,145,Observed,Owns a car?
+40.0,40.0,146,Observed,Owns a car?
+41.0,41.0,147,Observed,Owns a car?
+53.0,53.0,148,Observed,Owns a car?
+34.0,34.0,149,Observed,Owns a car?
+18.0,18.0,150,Observed,Owns a car?
+57.0,57.0,151,Observed,Owns a car?
+39.0,39.0,152,Observed,Owns a car?
+46.0,46.0,153,Observed,Owns a car?
+36.0,36.0,154,Observed,Owns a car?
+33.0,33.0,155,Observed,Owns a car?
+33.0,33.0,156,Observed,Owns a car?
+47.0,47.0,157,Observed,Owns a car?
+31.0,31.0,158,Observed,Owns a car?
+47.0,47.0,159,Observed,Owns a car?
+22.0,22.0,160,Observed,Owns a car?
+32.0,32.0,161,Observed,Owns a car?
+53.0,53.0,162,Observed,Owns a car?
+40.0,40.0,163,Observed,Owns a car?
+34.0,34.0,164,Observed,Owns a car?
+40.0,40.0,165,Observed,Owns a car?
+37.0,37.0,166,Observed,Owns a car?
+47.0,47.0,167,Observed,Owns a car?
+19.0,19.0,168,Observed,Owns a car?
+35.0,35.0,169,Observed,Owns a car?
+44.0,44.0,170,Observed,Owns a car?
+10.0,10.0,171,Observed,Owns a car?
+27.0,27.0,172,Observed,Owns a car?
+63.0,63.0,173,Observed,Owns a car?
+50.0,50.0,174,Observed,Owns a car?
+33.0,33.0,175,Observed,Owns a car?
+31.0,27.734351922587216,0,Predicted,Owns a car?
+33.0,30.112506204444507,1,Predicted,Owns a car?
+20.0,21.08894259335436,2,Predicted,Owns a car?
+48.0,35.51835097128637,3,Predicted,Owns a car?
+15.0,26.21108258368197,4,Predicted,Owns a car?
+30.0,39.604031535174734,5,Predicted,Owns a car?
+23.0,47.97840374272445,6,Predicted,Owns a car?
+36.0,33.80047776725734,7,Predicted,Owns a car?
+13.0,24.553006826803628,8,Predicted,Owns a car?
+40.0,38.26208090439734,9,Predicted,Owns a car?
+50.0,35.779957556795786,10,Predicted,Owns a car?
+47.0,46.85257890146194,11,Predicted,Owns a car?
+20.0,25.934544079526784,12,Predicted,Owns a car?
+41.0,45.84356528437576,13,Predicted,Owns a car?
+44.0,42.34944427284072,14,Predicted,Owns a car?
+48.0,46.59382314224057,15,Predicted,Owns a car?
+50.0,48.28506391829669,16,Predicted,Owns a car?
+46.0,44.39148164889429,17,Predicted,Owns a car?
+39.0,41.26464563523015,18,Predicted,Owns a car?
+37.0,41.004888259524535,19,Predicted,Owns a car?
+14.0,20.031391528851426,20,Predicted,Owns a car?
+19.0,35.1656062891357,21,Predicted,Owns a car?
+47.0,45.227820403895116,22,Predicted,Owns a car?
+43.0,44.14311289995648,23,Predicted,Owns a car?
+20.0,37.54116230013552,24,Predicted,Owns a car?
+37.0,44.5499223146903,25,Predicted,Owns a car?
+54.0,42.49232640484453,26,Predicted,Owns a car?
+45.0,46.19223936927658,27,Predicted,Owns a car?
+31.0,40.704279166039704,28,Predicted,Owns a car?
+22.0,46.57318487721255,29,Predicted,Owns a car?
+50.0,46.69776971427398,30,Predicted,Owns a car?
+24.0,39.82058607446878,31,Predicted,Owns a car?
+58.0,51.19484097164397,32,Predicted,Owns a car?
+47.0,49.27958357691903,33,Predicted,Owns a car?
+56.0,39.85343575824064,34,Predicted,Owns a car?
+27.0,29.09713594354739,35,Predicted,Owns a car?
+24.0,39.503111771717904,36,Predicted,Owns a car?
+27.0,46.10673576461064,37,Predicted,Owns a car?
+51.0,46.00834266457844,38,Predicted,Owns a car?
+43.0,36.19833215235782,39,Predicted,Owns a car?
+26.0,28.78342827508156,40,Predicted,Owns a car?
+27.0,28.117201426024952,41,Predicted,Owns a car?
+48.0,45.484938494836555,42,Predicted,Owns a car?
+52.0,47.88281857912306,43,Predicted,Owns a car?
+38.0,46.17365584859155,44,Predicted,Owns a car?
+37.0,38.91330159780005,45,Predicted,Owns a car?
+56.0,46.50082130424504,46,Predicted,Owns a car?
+35.0,35.92535603218012,47,Predicted,Owns a car?
+53.0,39.990124707158664,48,Predicted,Owns a car?
+32.0,30.89745289831607,49,Predicted,Owns a car?
+46.0,33.87719582618964,50,Predicted,Owns a car?
+45.0,35.45951551059081,51,Predicted,Owns a car?
+50.0,48.893791047655114,52,Predicted,Owns a car?
+46.0,44.280715426135934,53,Predicted,Owns a car?
+41.0,40.05717551682272,54,Predicted,Owns a car?
+17.0,25.089403080579558,55,Predicted,Owns a car?
+38.0,43.59365300476373,56,Predicted,Owns a car?
+35.0,34.49878989164867,57,Predicted,Owns a car?
+38.0,37.079473432501544,58,Predicted,Owns a car?
+14.0,22.840679092149685,59,Predicted,Owns a car?
+39.0,43.97232384543059,60,Predicted,Owns a car?
+63.0,46.473378540651204,61,Predicted,Owns a car?
+17.0,37.643037498316495,62,Predicted,Owns a car?
+40.0,43.58264931594505,63,Predicted,Owns a car?
+33.0,39.43154456380079,64,Predicted,Owns a car?
+22.0,24.632949403537644,65,Predicted,Owns a car?
+37.0,37.34574130703373,66,Predicted,Owns a car?
+56.0,44.70420425824191,67,Predicted,Owns a car?
+49.0,35.22819709249985,68,Predicted,Owns a car?
+25.0,32.39728890814406,69,Predicted,Owns a car?
+43.0,45.97494474984338,70,Predicted,Owns a car?
+36.0,38.60062081157204,71,Predicted,Owns a car?
+29.0,44.271365355198895,72,Predicted,Owns a car?
+48.0,44.837186756864845,73,Predicted,Owns a car?
+54.0,47.35332789964025,74,Predicted,Owns a car?
+33.0,33.27746258557185,75,Predicted,Owns a car?
+34.0,37.920658804661606,76,Predicted,Owns a car?
+37.0,34.985245978031536,77,Predicted,Owns a car?
+53.0,48.78634040318102,78,Predicted,Owns a car?
+44.0,43.6663344511596,79,Predicted,Owns a car?
+52.0,48.33166805473868,80,Predicted,Owns a car?
+43.0,46.74823743621692,81,Predicted,Owns a car?
+13.0,21.686168762906735,82,Predicted,Owns a car?
+51.0,46.35798347412796,83,Predicted,Owns a car?
+18.0,23.645687972158566,84,Predicted,Owns a car?
+27.0,41.84415902853596,85,Predicted,Owns a car?
+55.0,38.03292576660041,86,Predicted,Owns a car?
+54.0,38.86423211292992,87,Predicted,Owns a car?
+27.0,30.791912565607127,88,Predicted,Owns a car?
+40.0,32.24401181905311,89,Predicted,Owns a car?
+55.0,46.63000009880918,90,Predicted,Owns a car?
+64.0,50.98195584608629,91,Predicted,Owns a car?
+34.0,35.67409709476326,92,Predicted,Owns a car?
+37.0,37.09038184813145,93,Predicted,Owns a car?
+54.0,52.24853862521266,94,Predicted,Owns a car?
+27.0,33.81755263061386,95,Predicted,Owns a car?
+20.0,23.005774320747587,96,Predicted,Owns a car?
+20.0,31.74189245179957,97,Predicted,Owns a car?
+34.0,40.38696480722776,98,Predicted,Owns a car?
+47.0,33.700844912306344,99,Predicted,Owns a car?
+21.0,27.061319755704783,100,Predicted,Owns a car?
+38.0,40.27698535326081,101,Predicted,Owns a car?
+24.0,38.26633057583836,102,Predicted,Owns a car?
+45.0,44.980067083641664,103,Predicted,Owns a car?
+20.0,23.233824672059967,104,Predicted,Owns a car?
+19.0,23.83933023042806,105,Predicted,Owns a car?
+35.0,35.43366211747786,106,Predicted,Owns a car?
+43.0,35.355232490869795,107,Predicted,Owns a car?
+35.0,27.672998492326226,108,Predicted,Owns a car?
+31.0,36.63469310824084,109,Predicted,Owns a car?
+60.0,46.27263871930603,110,Predicted,Owns a car?
+28.0,39.25139798803359,111,Predicted,Owns a car?
+43.0,39.42318412229446,112,Predicted,Owns a car?
+20.0,20.538583178556443,113,Predicted,Owns a car?
+36.0,37.54352268784717,114,Predicted,Owns a car?
+44.0,33.91958170897775,115,Predicted,Owns a car?
+39.0,47.10501623745454,116,Predicted,Owns a car?
+31.0,38.399442150520684,117,Predicted,Owns a car?
+52.0,44.084286763634104,118,Predicted,Owns a car?
+18.0,28.728975970553513,119,Predicted,Owns a car?
+45.0,41.26268096170945,120,Predicted,Owns a car?
+44.0,44.96442603257089,121,Predicted,Owns a car?
+40.0,46.45054853489668,122,Predicted,Owns a car?
+34.0,29.186617304264367,123,Predicted,Owns a car?
+28.0,40.74648039530629,124,Predicted,Owns a car?
+48.0,43.68869761350081,125,Predicted,Owns a car?
+25.0,34.00538954048114,126,Predicted,Owns a car?
+27.0,29.09713594354739,127,Predicted,Owns a car?
+29.0,37.737812583519194,128,Predicted,Owns a car?
+34.0,42.23499375696181,129,Predicted,Owns a car?
+29.0,41.34195592501652,130,Predicted,Owns a car?
+48.0,46.818146191617814,131,Predicted,Owns a car?
+38.0,34.5249901613538,132,Predicted,Owns a car?
+52.0,42.588867341808516,133,Predicted,Owns a car?
+46.0,43.04435472548574,134,Predicted,Owns a car?
+44.0,46.20626514013904,135,Predicted,Owns a car?
+51.0,44.68511675997003,136,Predicted,Owns a car?
+60.0,38.424751718869366,137,Predicted,Owns a car?
+34.0,35.19631636171289,138,Predicted,Owns a car?
+48.0,43.76628166370375,139,Predicted,Owns a car?
+30.0,31.44806610858661,140,Predicted,Owns a car?
+22.0,34.1040887194288,141,Predicted,Owns a car?
+21.0,22.274784395640015,142,Predicted,Owns a car?
+42.0,50.20514740327512,143,Predicted,Owns a car?
+48.0,37.59118123934246,144,Predicted,Owns a car?
+24.0,30.262820424362765,145,Predicted,Owns a car?
+40.0,44.56802281886105,146,Predicted,Owns a car?
+41.0,36.56087122881735,147,Predicted,Owns a car?
+53.0,47.49025897852706,148,Predicted,Owns a car?
+34.0,33.51899452242021,149,Predicted,Owns a car?
+18.0,32.42784525059918,150,Predicted,Owns a car?
+57.0,49.146030580595806,151,Predicted,Owns a car?
+39.0,41.52990541920465,152,Predicted,Owns a car?
+46.0,43.868340204099916,153,Predicted,Owns a car?
+36.0,37.84567309833338,154,Predicted,Owns a car?
+33.0,30.868902264089453,155,Predicted,Owns a car?
+33.0,35.35494663584038,156,Predicted,Owns a car?
+47.0,38.64625467358384,157,Predicted,Owns a car?
+31.0,48.90564424388136,158,Predicted,Owns a car?
+47.0,46.64762716317591,159,Predicted,Owns a car?
+22.0,29.43347339907823,160,Predicted,Owns a car?
+32.0,49.328198525369935,161,Predicted,Owns a car?
+53.0,46.596425722032365,162,Predicted,Owns a car?
+40.0,34.847489161269806,163,Predicted,Owns a car?
+34.0,39.901114621399145,164,Predicted,Owns a car?
+40.0,43.33862224820496,165,Predicted,Owns a car?
+37.0,35.90657200274863,166,Predicted,Owns a car?
+47.0,37.247168025387424,167,Predicted,Owns a car?
+19.0,22.249842670698296,168,Predicted,Owns a car?
+35.0,35.516470836726526,169,Predicted,Owns a car?
+44.0,39.41709048064768,170,Predicted,Owns a car?
+10.0,18.07852213146331,171,Predicted,Owns a car?
+27.0,29.09713594354739,172,Predicted,Owns a car?
+63.0,39.752228163992875,173,Predicted,Owns a car?
+50.0,44.5877653564017,174,Predicted,Owns a car?
+33.0,41.0342785263625,175,Predicted,Owns a car?

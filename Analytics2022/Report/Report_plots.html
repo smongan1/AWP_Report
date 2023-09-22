@@ -15,7 +15,7 @@
             color: #090909;
         }
         p {
-            line-height: 1.1;
+            line-height: 1.2;
         }
 
 	.center {
@@ -101,6 +101,9 @@
         .whiteboardered{
             background-color:#FFFFFF;
                 border-radius : 0px 0px 25px 25px;
+        }
+        .margined {
+            padding: 10px;
         }
         .title{
             /*background-image:url('https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/81227198_2789231131137576_8524645136276127744_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Cf3p4jO5byoAX_49AXj&_nc_ht=scontent-atl3-2.xx&oh=00_AfB9uO0jZe8PhEL81lDmtmcV8-eceACpbt8A4JHF7c5dkQ&oe=6533EC59');*/
@@ -201,6 +204,11 @@
          Modeling Method And Design
         </a>
        </li>
+       <li>
+        <a href="#Factors">
+         Latent Factors
+        </a>
+       </li>
       </ol>
      </li>
      <li>
@@ -224,7 +232,7 @@
    Introduction
   </h2>
   <div>
-   <div class="mission OGR_boarder">
+   <div class="mission OGR_boarder margined">
     <h3 class="center" id="Mission Statement">
      Mission Statement
     </h3>
@@ -1008,7 +1016,7 @@
    Predictive Modelling Of Hope Scale Score
   </h2>
   <p>
-   &emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regression, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regression, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the model had a mean relative error of predicting the Hope Scale Score of &sim;4.4 % (&alpha; &lt; 0.001) and a Pearson Correlation Coefficient &sim;0.80. This compares to a a mean relative error of &sim;5.0 % and a Pearson Correlation Coefficient of  &sim;0.73 for the Linear Regression Model
+   &emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regression, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regression, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the Random Forest Regression model had a mean absolute percentage error of predicting the Hope Scale Score of &sim;15.9 % (&alpha; &lt; 0.001) and a Pearson Correlation Coefficient &sim;0.80. This is an improvement compared to a mean absolute percentage error of &sim;16.6 % and a Pearson Correlation Coefficient of &sim;0.79 for the Linear Regression Model
   </p>
   <h3 id="Method">
    Modeling Method And Design
@@ -1105,37 +1113,41 @@
   <p>
    These findings underscore the intricate web of factors that contribute to veterans' hope levels and serve as a vital resource for informing targeted interventions and strategies aimed at enhancing hope and overall well-being among veterans. By understanding the impact of these questions, we can advance the mission of preventing veteran suicide and elevate the quality of life for those who have valiantly served our nation.
   </p>
-  <h4>
-   Creation of Derived Factors Using Factor Analysis
-  </h4>
-  <p>
-   The creation of derived factors through factor analysis is a valuable technique in simplifying complex datasets, identifying latent variables, and extracting meaningful patterns within the data. In our analysis, we applied factor analysis to the provided features, resulting in the generation of distinct factors that encapsulate shared variance among the original features. These factors serve as a means of reducing dimensionality while retaining critical information, enabling a more interpretable and concise representation of the data.
-  </p>
-  Factor analysis revealed four factors, each characterized by a set of original features that exhibited strong interrelationships. These factors names reflect themes and underlying constructs they capture:
-  <h4>
-   Factor: Service and Financial Profile
-  </h4>
-  <p>
-   This factor encompasses features related to military service duration, financial attributes, and interactions with veteran service providers. It provides insight into the financial and service-related aspects of the surveyed population.
-  </p>
-  <h4>
-   Factor: Deployment and Resource Seeking
-  </h4>
-  <p>
-   This is characterized by features related to deployment history, the pursuit of value, and seeking various resources and benefits. It sheds light on the deployment experiences and resource-seeking behaviors of the surveyed individuals.
-  </p>
-  <h4>
-   Factor: Health and Community Engagement
-  </h4>
-  <p>
-   This factor is marked by features associated with health, community engagement, and participation in a range of events and activities. It offers insights into the health status and community involvement of the respondents.
-  </p>
-  <h4>
-   Factor: Transportation and Adaptability
-  </h4>
-  <p>
-   This factor comprises features related to transportation, adaptability to change, and housing status. It provides a comprehensive view of transportation modes, adaptability, and housing situations within the surveyed population.
-  </p>
+  <div class="mission OGB_boarder margined" id="Factors">
+   <h3 class="center">
+    Latent Factors
+   </h3>
+   <h4>
+    Factor: Roadblocks to Hope
+   </h4>
+   <p>
+    This factor reflects a lack of hope associated with difficulties in seeking assistance, education benefits, and housing, but a glimmer of hope through car ownership and reliable transportation.
+   </p>
+   <h4>
+    Factor: Emotional Anchors
+   </h4>
+   <p>
+    This factor captures the emotional aspects of hope, with negative correlations to stress and positive connections to community support and well-being.
+   </p>
+   <h4>
+    Factor: Stable on the Move
+   </h4>
+   <p>
+    This factor relates to transportation and housing stability, with positive correlations to owning a car and reliable transportation, and negative correlations to housing assistance and homelessness risk.
+   </p>
+   <h4>
+    Factor: Service Chronicles
+   </h4>
+   <p>
+    This factor delves into military service history and health coverage, highlighting the impact of service eras, insurance, and employment status on hope.
+   </p>
+   <h4>
+    Factor: Community Bonds
+   </h4>
+   <p>
+    This factor explores the role of social support, community engagement, and well-being, encompassing factors like dependable support, household size, and coping strategies.
+   </p>
+  </div>
   <p>
    The creation of these factors enhances our ability to analyze and interpret the data effectively. By condensing multiple related features into a smaller set of factors, we gain a clearer understanding of the underlying structures and relationships within the dataset. These factors can serve as valuable variables in subsequent analyses, simplifying the complexity of the dataset while preserving its informative content.
   </p>
@@ -1144,7 +1156,7 @@
    Conclusion
   </h2>
   <p>
-   This report represents a significant step forward, offering a comprehensive analysis of survey results that contributes to a better understanding of the complex issue of veteran suicide. Specifically, our analysis revealed that factors like veterans' perception of the care offered by veteran-serving organizations, the extent of community involvement with veterans, dependable support networks, and car ownership all play significant roles in positively influencing hope levels. These quantified impacts provide valuable guidance for targeted interventions aimed at enhancing the well-being and hope of veterans, aligning with our mission to prevent veteran suicide and elevate the quality of life for those who have honorably served our nation. Four distinct factors were identified, each reflecting shared variance among original features. These factors encompassed service and financial profiles, deployment and resource-seeking behaviors, health and community engagement, and transportation and adaptability. They provide a more interpretable and concise representation of the data, facilitating a deeper understanding of veterans' experiences. This comprehensive report combines survey insights, predictive modeling, and factor analysis to offer a multifaceted view of the challenges and opportunities within the veteran community. Armed with these findings, we are better equipped to implement targeted interventions and strategies that enhance hope, well-being, and the overall quality of life for veterans, ensuring that their sacrifices are met with the support and care they deserve. Together, we can make a lasting impact on the lives of those who have served our nation.
+   This report represents a significant step forward, offering a comprehensive analysis of survey results that contributes to a better understanding of the complex issue of veteran suicide. Specifically, our analysis revealed that factors like veterans' perception of the care offered by veteran-serving organizations, the extent of community involvement with veterans, dependable support networks, and car ownership all play significant roles in positively influencing hope levels. These quantified impacts provide valuable guidance for targeted interventions aimed at enhancing the well-being and hope of veterans, aligning with our mission to prevent veteran suicide and elevate the quality of life for those who have honorably served our nation. Five distinct factors were identified, each reflecting shared variance among original features. These factors encompassed service and financial profiles, deployment and resource-seeking behaviors, health and community engagement, and transportation and adaptability. They provide a more interpretable and concise representation of the data, facilitating a deeper understanding of veterans' experiences. This comprehensive report combines survey insights, predictive modeling, and factor analysis to offer a multifaceted view of the challenges and opportunities within the veteran community. Armed with these findings, we are better equipped to implement targeted interventions and strategies that enhance hope, well-being, and the overall quality of life for veterans, ensuring that their sacrifices are met with the support and care they deserve. Together, we can make a lasting impact on the lives of those who have served our nation.
   </p>
   <h2 id="Appendix">
    Appendix
