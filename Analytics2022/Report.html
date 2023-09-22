@@ -317,7 +317,7 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
 <p>&emsp;These findings underscore the significance of community involvement, dependable support networks, and practical considerations like car ownership in positively influencing the hope levels of veterans. The quantified impacts of these factors provide valuable guidance for targeted interventions and strategies aimed at enhancing the well-being and hope of veterans, aligning with the mission to prevent veteran suicide and improve the quality of life for those who have honorably served our nation.
         </p>
     <h2 id="Model">Predictive Modelling Of Hope Scale Score</h2>
-     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regressor, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regressor, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the model had a mean relative error of predicting the Hope Scale Score of &sim; 4.4 % (&alpha; &lt; 0.001). </p>
+     <p>&emsp; The predictive modeling of Hope Scale Scores represents a pivotal step in comprehending the factors that influence the levels of hope among veterans. This section employs a robust modeling approach, primarily utilizing the Random Forest Regression, to delve into the intricate interplay between the Hope Scale Scores and a range of impact questions. These questions, carefully selected based on their predictive power, encapsulate diverse aspects of community involvement, support networks, and practical considerations, such as car ownership. Through the application of advanced statistical techniques, including cross-validation, null hypothesis testing, and validation against a Linear Regression, we aimed to establish robust relationships and determine the significance of these questions in shaping veterans' well-being. Overall the Random Forest Regression model had a mean relative error of predicting the Hope Scale Score of &sim;4.4 % (&alpha; &lt; 0.001) and a Pearson Correlation Coefficient &sim;0.80. This compares to a a mean relative error of &sim;5.0 % and a Pearson Correlation Coefficient of  &sim;0.73 for the Linear Regression Model</p>
     <h3 id="Method">Modeling Method And Design</h3>
     <p>&emsp;The modeling process employed advanced statistical methods, including regression analysis and machine learning algorithms, to unveil the intricate connections between Hope Scale Scores and the impact questions. The model was thoughtfully designed to account for a myriad of factors that might impact hope levels, thereby facilitating a comprehensive assessment of the effects of these questions on veterans' overall well-being. Utilizing the differences between predicted means and observed means, along with Spearman rank correlation for continuous predictors and ANOVA for categorical predictors, the model was fine-tuned to capture the nuanced relationships.</p>
     <p>The analysis revealed a set of pivotal predictive features that significantly influenced Hope Scale Scores. Among these influential factors were:</p>
@@ -357,21 +357,22 @@ Our upstream approach to veteran empowerment is a four-step plan to Connect, Edu
 
 Factor analysis revealed four factors, each characterized by a set of original features that exhibited strong interrelationships. These factors names reflect themes and underlying constructs they capture:
 
-<h4>Factor: Service and Financial Profile</h4>
+<h4>Factor: Veteran Well-being and Support</h4>
 
-<p>This factor encompasses features related to military service duration, financial attributes, and interactions with veteran service providers. It provides insight into the financial and service-related aspects of the surveyed population.</p>
+<p> This factor reflects the well-being and support level for veterans. It scales negatively with the number of deployments, current weight, and the number of needs seeking assistance for. On the positive side, it scales positively with years of service and the year the individual began their military service.</p>
     
-<h4>Factor: Deployment and Resource Seeking</h4>
+<h4>Factor: Weight and Deployment Impact</h4>
 
-<p>This is characterized by features related to deployment history, the pursuit of value, and seeking various resources and benefits. It sheds light on the deployment experiences and resource-seeking behaviors of the surveyed individuals.</p>
+<p>This factor focuses on the impact of weight and deployment on individuals. It scales negatively with current weight, while it scales positively with the number of deployments. Additionally, it scales negatively with BMI (Body Mass Index).</p>
     
-<h4>Factor: Health and Community Engagement</h4>
+<h4>Factor: Community Engagement and Support</h4>
 
-<p>This factor is marked by features associated with health, community engagement, and participation in a range of events and activities. It offers insights into the health status and community involvement of the respondents.</p>
+<p>This factor assesses the level of community engagement and support provided by veteran-serving organizations. It scales positively with current weight, BMI, but negatively with the number of deployments, years of service, and the year of military service initiation. It also scales negatively with various aspects related to the effectiveness of these organizations in terms of community connectivity, physical fitness, fulfillment, empowerment, community investment, overall health improvement, job support, and stress reduction.</p>
     
-<h4>Factor: Transportation and Adaptability</h4>
+<h4>Factor: Physical Health and Service History</h4>
 
-<p>This factor comprises features related to transportation, adaptability to change, and housing status. It provides a comprehensive view of transportation modes, adaptability, and housing situations within the surveyed population.</p>
+<p>This factor focuses on physical health and service history. It scales positively with current weight, BMI, years of service, and the number of needs seeking assistance for. On the other hand, it scales negatively with the number of deployments.</p>
+    
 <p>The creation of these factors enhances our ability to analyze and interpret the data effectively. By condensing multiple related features into a smaller set of factors, we gain a clearer understanding of the underlying structures and relationships within the dataset. These factors can serve as valuable variables in subsequent analyses, simplifying the complexity of the dataset while preserving its informative content.</p>
 
 It is important to note that factor analysis is an exploratory technique, and the factor names are assigned based on the interpretation of the features comprising each factor. The names provide a high-level summary of the shared characteristics within each factor, facilitating a more intuitive understanding of the data's underlying structure.
